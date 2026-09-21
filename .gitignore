@@ -1,0 +1,4 @@
+data/
+childcare.db
+__pycache__/
+*.csv
