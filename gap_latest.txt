@@ -1,0 +1,971 @@
+county                                       u5   seats  per100  provs desert
+thomas (31)                                   6      12   200.0      1 
+mcpherson (31)                               12       0     0.0      0 DESERT
+king (48)                                    16       0     0.0      0 DESERT
+cimarron (40)                                16      40   250.0      1 
+kent (48)                                    17       0     0.0      0 DESERT
+arthur (31)                                  23       0     0.0      0 DESERT
+mineral (08)                                 25      63   252.0      2 
+loup (31)                                    25      12    48.0      1 
+hooker (31)                                  26      31   119.2      3 
+highland (51)                                27       0     0.0      0 DESERT
+blaine (31)                                  29       0     0.0      0 DESERT
+banner (31)                                  35       0     0.0      0 DESERT
+grant (31)                                   35      16    45.7      1 
+crockett (48)                                36     148   411.1      4 
+roberts (48)                                 36       0     0.0      0 DESERT
+san juan (08)                                37      45   121.6      1 
+edwards (48)                                 37       0     0.0      0 DESERT
+hinsdale (08)                                38     205   539.5      3 
+forest (42)                                  38       0     0.0      3 DESERT
+motley (48)                                  39       0     0.0      0 DESERT
+jackson (08)                                 40      15    37.5      1 
+foard (48)                                   42      83   197.6      1 
+logan (31)                                   44       0     0.0      0 DESERT
+hayes (31)                                   52       0     0.0      0 DESERT
+wheeler (31)                                 53      36    67.9      3 
+keya paha (31)                               56       0     0.0      0 DESERT
+rock (31)                                    57      42    73.7      4 
+kiowa (08)                                   58      41    70.7      2 
+borden (48)                                  59       0     0.0      0 DESERT
+harmon (40)                                  60      56    93.3      4 
+glasscock (48)                               66      37    56.1      1 
+kinney (48)                                  66      23    34.8      1 
+stonewall (48)                               66      44    66.7      1 
+grant (40)                                   67      52    77.6      4 
+alpine (06)                                  68      50    73.5      2 
+sioux (31)                                   70       0     0.0      0 DESERT
+irion (48)                                   70       0     0.0      0 DESERT
+lake of the woods (27)                       77     136   176.6     12 
+boyd (31)                                    78      12    15.4      1 DESERT
+briscoe (48)                                 82       0     0.0      0 DESERT
+surry (51)                                   82      12    14.6      1 DESERT
+garden (31)                                  83      84   101.2      3 
+gosper (31)                                  84      85   101.2      6 
+menard (48)                                  84      28    33.3      1 
+real (48)                                    85      38    44.7      1 
+bath (51)                                    86      15    17.4      1 DESERT
+cottle (48)                                  88       0     0.0      0 DESERT
+cheyenne (08)                                89      83    93.3      5 
+roger mills (40)                             89      58    65.2      4 
+ouray (08)                                   94     139   147.9      6 
+cook (27)                                    94     112   119.1      9 
+mcmullen (48)                                95       0     0.0      0 DESERT
+kittson (27)                                 96     171   178.1     14 
+concho (48)                                  97       0     0.0      0 DESERT
+hudspeth (48)                                97      63    64.9      3 
+alfalfa (40)                                 97      21    21.6      3 DESERT
+garfield (53)                                98       0     0.0      0 DESERT
+ellis (40)                                   98      21    21.4      3 DESERT
+custer (08)                                 100     377   377.0      4 
+mills (48)                                  101      68    67.3      1 
+charles city (51)                           101       0     0.0      0 DESERT
+throckmorton (48)                           102       0     0.0      0 DESERT
+armstrong (48)                              106      90    84.9      3 
+upton (48)                                  106      20    18.9      1 DESERT
+donley (48)                                 107      48    44.9      4 
+garfield (31)                               108      98    90.7      5 
+dickens (48)                                108       0     0.0      0 DESERT
+deuel (31)                                  109      64    58.7      3 
+essex (50)                                  111     143   128.8     10 
+red lake (27)                               112     150   133.9     14 
+dewey (40)                                  116      28    24.1      4 DESERT
+sterling (48)                               118      44    37.3      1 
+frontier (31)                               119      55    46.2      2 
+hemphill (48)                               119     196   164.7      2 
+harper (40)                                 120      37    30.8      3 DESERT
+lexington city (51)                         121       0     0.0      0 DESERT
+cotton (40)                                 123     119    96.7      6 
+bland (51)                                  124       0     0.0      0 DESERT
+king and queen (51)                         124       0     0.0      0 DESERT
+culberson (48)                              125     118    94.4      2 
+middlesex (51)                              126      88    69.8      5 
+lancaster (51)                              127      52    40.9      3 
+greeley (31)                                128      82    64.1      7 
+traverse (27)                               128     104    81.2     11 
+dundy (31)                                  131      58    44.3      5 
+hamilton (36)                               133      48    36.1      3 
+jeff davis (48)                             133       0     0.0      0 DESERT
+dolores (08)                                135      41    30.4      2 DESERT
+greer (40)                                  135     163   120.7      4 
+emporia city (51)                           136       0     0.0      0 DESERT
+rappahannock (51)                           137       0     0.0      0 DESERT
+la salle (48)                               139       0     0.0      0 DESERT
+perkins (31)                                140      79    56.4      4 
+mathews (51)                                143      10     7.0      1 DESERT
+hall (48)                                   144      12     8.3      1 DESERT
+beaver (40)                                 144      21    14.6      3 DESERT
+hitchcock (31)                              145      12     8.3      1 DESERT
+crowley (08)                                148      74    50.0      1 
+franklin (31)                               148      34    23.0      3 DESERT
+grand isle (50)                             148     332   224.3     12 
+wilkin (27)                                 148     202   136.5     21 
+baylor (48)                                 150     115    76.7      3 
+sullivan (42)                               151      62    41.1      2 
+coke (48)                                   151       0     0.0      0 DESERT
+shackelford (48)                            152       3     2.0      1 DESERT
+craig (51)                                  154       0     0.0      0 DESERT
+big stone (27)                              156     184   117.9     21 
+norton city (51)                            156       0     0.0      0 DESERT
+knox (48)                                   161     123    76.4      6 
+columbia (53)                               162      40    24.7      1 DESERT
+jefferson (40)                              162     109    67.3      5 
+sherman (31)                                163      91    55.8      5 
+lac qui parle (27)                          164     293   178.7     22 
+harlan (31)                                 166      80    48.2      1 
+brown (31)                                  170     114    67.1      7 
+webster (31)                                170     188   110.6      5 
+lincoln (27)                                171     194   113.5     22 
+wahkiakum (53)                              172      56    32.6      1 DESERT
+cameron (42)                                173      72    41.6      4 
+garza (48)                                  173      72    41.6      2 
+brooks (48)                                 174     345   198.3      6 
+norman (27)                                 174     208   119.5     17 
+baca (08)                                   176     100    56.8      5 
+costilla (08)                               177     112    63.3      4 
+sedgwick (08)                               177      60    33.9      2 
+pawnee (31)                                 178      65    36.5      3 
+nance (31)                                  179     153    85.5     11 
+covington city (51)                         179       0     0.0      0 DESERT
+sherman (48)                                183      12     6.6      1 DESERT
+kimball (31)                                185      71    38.4      4 
+chase (31)                                  186     166    89.2      6 
+tillman (40)                                186     121    65.1      4 
+bent (08)                                   187     121    64.7      3 
+grant (27)                                  188     184    97.9     23 
+oldham (48)                                 192      12     6.2      1 DESERT
+collingsworth (48)                          194     106    54.6      3 
+sutton (48)                                 195      55    28.2      2 DESERT
+cochran (48)                                197       0     0.0      0 DESERT
+coal (40)                                   197     223   113.2      7 
+sussex (51)                                 197     149    75.6      4 
+williamsburg city (51)                      198       0     0.0      0 DESERT
+nuckolls (31)                               199     130    65.3      7 
+cumberland (51)                             199      58    29.1      4 DESERT
+san miguel (08)                             201     572   284.6     12 
+wheeler (48)                                206     160    77.7      2 
+schleicher (48)                             207      40    19.3      2 DESERT
+mahnomen (27)                               207     205    99.0     17 
+woods (40)                                  211     213   100.9     18 
+lipscomb (48)                               213      12     5.6      1 DESERT
+greensville (51)                            213      30    14.1      1 DESERT
+kimble (48)                                 217      98    45.2      2 
+fisher (48)                                 218       0     0.0      0 DESERT
+martin (48)                                 220      24    10.9      2 DESERT
+lake (27)                                   220     224   101.8     17 
+murray (27)                                 221     320   144.8     22 
+hardeman (48)                               222     276   124.3      4 
+mason (48)                                  222      53    23.9      3 DESERT
+major (40)                                  222     216    97.3      7 
+marshall (27)                               223     324   145.3     22 
+haskell (48)                                225     128    56.9      2 
+koochiching (27)                            228     320   140.4     26 
+richmond (51)                               229    2456  1072.5     42 
+northampton (51)                            233     107    45.9      5 
+johnson (31)                                234     100    42.7      4 
+valley (31)                                 235     241   102.6      8 
+buena vista city (51)                       236       0     0.0      0 DESERT
+lunenburg (51)                              237       0     0.0      0 DESERT
+grayson (51)                                241     137    56.8      2 
+thayer (31)                                 242     357   147.5     15 
+lincoln (08)                                247     163    66.0      5 
+washington (08)                             252     222    88.1      8 
+clear creek (08)                            254     585   230.3     11 
+furnas (31)                                 256     233    91.0     16 
+carson (48)                                 257     104    40.5      2 
+san saba (48)                               257     117    45.5      8 
+clearwater (27)                             260     214    82.3     21 
+phillips (08)                               263     156    59.3      7 
+blaine (40)                                 263     176    66.9      8 
+charlotte (51)                              266      60    22.6      2 DESERT
+washita (40)                                267     136    50.9     10 
+alleghany (51)                              268       0     0.0      0 DESERT
+latimer (40)                                269     275   102.2     10 
+huerfano (08)                               272      84    30.9      4 DESERT
+pope (27)                                   275     416   151.3     24 
+dickenson (51)                              276       0     0.0      0 DESERT
+polk (31)                                   280     110    39.3     10 
+jackson (27)                                280     329   117.5     24 
+rock (27)                                   280     583   208.2     27 
+johnston (40)                               285     280    98.2     11 
+aitkin (27)                                 286     345   120.6     26 
+franklin city (51)                          286     111    38.8      6 
+okfuskee (40)                               288     141    49.0      6 
+pushmataha (40)                             290     275    94.8     10 
+saguache (08)                               291     228    78.4      5 
+morrill (31)                                291     171    58.8      6 
+yellow medicine (27)                        291     387   133.0     32 
+cherry (31)                                 292     114    39.0     10 
+galax city (51)                             292       0     0.0      0 DESERT
+kiowa (40)                                  294     162    55.1      6 
+love (40)                                   296     141    47.6      3 
+stevens (27)                                297     380   127.9     28 
+swift (27)                                  297     410   138.0     35 
+gilpin (08)                                 300     320   106.7      4 
+crosby (48)                                 301      27     9.0      3 DESERT
+floyd (48)                                  306     284    92.8      3 
+clarke (51)                                 307     104    33.9      6 
+sheridan (31)                               308     163    52.9      7 
+poquoson city (51)                          310       0     0.0      0 DESERT
+bristol city (51)                           312       0     0.0      0 DESERT
+ferry (53)                                  313      63    20.1      2 DESERT
+stanton (31)                                314      52    16.6      4 DESERT
+childress (48)                              315     203    64.4     11 
+boone (31)                                  317     246    77.6     13 
+refugio (48)                                317      51    16.1      3 DESERT
+northumberland (51)                         317      88    27.8      3 DESERT
+nowata (40)                                 323     137    42.4      4 
+noble (40)                                  325     404   124.3     23 
+floyd (51)                                  328      50    15.2      2 DESERT
+nottoway (51)                               328      77    23.5      3 DESERT
+chippewa (27)                               329     449   136.5     34 
+atoka (40)                                  334     314    94.0      8 
+fillmore (31)                               337     239    70.9     11 
+falls church city (51)                      337       0     0.0      0 DESERT
+dixon (31)                                  340     102    30.0      4 DESERT
+reagan (48)                                 340       3     0.9      1 DESERT
+nelson (51)                                 340      69    20.3      1 DESERT
+goliad (48)                                 341      98    28.7      2 DESERT
+brunswick (51)                              342      10     2.9      1 DESERT
+burt (31)                                   345      80    23.2      7 DESERT
+faribault (27)                              346     384   111.0     29 
+crane (48)                                  347     160    46.1      3 
+haskell (40)                                347     325    93.7     11 
+hansford (48)                               353      69    19.5      4 DESERT
+mcculloch (48)                              353       0     0.0      0 DESERT
+pipestone (27)                              356     440   123.6     38 
+murray (40)                                 356     238    66.9     12 
+craig (40)                                  361     238    65.9     12 
+rockbridge (51)                             369     172    46.6      5 
+keith (31)                                  370     217    58.6     12 
+buckingham (51)                             370      80    21.6      2 DESERT
+lake (08)                                   373     378   101.3      3 
+radford city (51)                           375       0     0.0      0 DESERT
+madison (51)                                379     136    35.9      2 
+hartley (48)                                380     156    41.1      3 
+lynn (48)                                   380     128    33.7      8 
+presidio (48)                               380       8     2.1      1 DESERT
+hamilton (48)                               382     367    96.1     10 
+watonwan (27)                               383     359    93.7     21 
+buchanan (51)                               383      26     6.8      1 DESERT
+scott (51)                                  385       0     0.0      0 DESERT
+patrick (51)                                386      44    11.4      2 DESERT
+brewster (48)                               387     189    48.8      7 
+san augustine (48)                          387     119    30.7      2 DESERT
+marshall (40)                               389       0     0.0      0 DESERT
+richardson (31)                             392     257    65.6     13 
+pennington (27)                             392     607   154.8     44 
+modoc (06)                                  393     284    72.3      9 
+renville (27)                               393     657   167.2     45 
+kearney (31)                                395     292    73.9     21 
+hughes (40)                                 395     270    68.4      9 
+essex (51)                                  395      32     8.1      2 DESERT
+marion (48)                                 399     285    71.4      3 
+clay (31)                                   402     235    58.5     12 
+mitchell (48)                               402      36     9.0      2 DESERT
+giles (51)                                  402     129    32.1      2 DESERT
+coleman (48)                                404      60    14.9      3 DESERT
+nemaha (31)                                 406     294    72.4     15 
+cottonwood (27)                             408     351    86.0     26 
+swisher (48)                                409     120    29.3      1 DESERT
+antelope (31)                               414     272    65.7     18 
+roseau (27)                                 414     601   145.2     46 
+amelia (51)                                 417      35     8.4      1 DESERT
+archer (48)                                 418     331    79.2     13 
+sibley (27)                                 420     434   103.3     38 
+goochland (51)                              421      98    23.3      4 DESERT
+merrick (31)                                423     331    78.3     11 
+delta (48)                                  425      41     9.6      2 DESERT
+howard (31)                                 431     225    52.2     10 
+jefferson (31)                              431     292    67.7     15 
+kanabec (27)                                436     479   109.9     31 
+pawnee (40)                                 440     287    65.2      9 
+kit carson (08)                             441     236    53.5     10 
+dallam (48)                                 444      48    10.8      4 DESERT
+skamania (53)                               445      68    15.3      2 DESERT
+prince edward (51)                          448      26     5.8      2 DESERT
+rio blanco (08)                             449     155    34.5      6 
+somervell (48)                              451     437    96.9      5 
+box butte (31)                              452     376    83.2     16 
+southampton (51)                            455     179    39.3      3 
+dawes (31)                                  456     246    53.9     13 
+kingfisher (40)                             457     207    45.3     14 
+conejos (08)                                459     119    25.9      3 DESERT
+choctaw (40)                                461     477   103.5     17 
+lee (51)                                    462      37     8.0      2 DESERT
+gunnison (08)                               466    1200   257.5     18 
+san juan (53)                               466     259    55.6      8 
+houston (27)                                466     762   163.5     44 
+clay (48)                                   468     288    61.5      8 
+redwood (27)                                470     592   126.0     46 
+waseca (27)                                 471     505   107.2     39 
+butler (31)                                 475     286    60.2     11 
+blanco (48)                                 480     176    36.7      3 
+stephens (48)                               482     517   107.3      4 
+appomattox (51)                             491     473    96.3      6 
+cheyenne (31)                               494     470    95.1      6 
+wayne (31)                                  495     382    77.2     17 
+bailey (48)                                 496     202    40.7      5 
+pitkin (08)                                 498    1215   244.0     20 
+knox (31)                                   499     471    94.4     27 
+jack (48)                                   499     199    39.9      5 
+mcintosh (40)                               514     303    58.9     12 
+page (51)                                   514     112    21.8      4 DESERT
+wadena (27)                                 518     427    82.4     31 
+pierce (31)                                 520     262    50.4     20 
+winkler (48)                                521      80    15.4      3 DESERT
+archuleta (08)                              530     434    81.9      9 
+cedar (31)                                  531     271    51.0     10 
+sabine (48)                                 539     393    72.9      4 
+salem city (51)                             548       0     0.0      0 DESERT
+hamilton (31)                               549     284    51.7      9 
+rains (48)                                  549      61    11.1      3 DESERT
+king william (51)                           554     132    23.8      7 DESERT
+hubbard (27)                                560     650   116.1     48 
+rio grande (08)                             562     521    92.7     13 
+runnels (48)                                564     202    35.8      8 
+westmoreland (51)                           566      23     4.1      2 DESERT
+dimmit (48)                                 578     310    53.6      6 
+pend oreille (53)                           578     159    27.5      4 DESERT
+fillmore (27)                               588     664   112.9     38 
+manassas park city (51)                     590       0     0.0      0 DESERT
+park (08)                                   593    1767   298.0     17 
+lincoln (53)                                593      24     4.0      1 DESERT
+newton (48)                                 594      75    12.6      1 DESERT
+mono (06)                                   595     151    25.4      7 DESERT
+russell (51)                                596      72    12.1      3 DESERT
+martinsville city (51)                      596       0     0.0      0 DESERT
+castro (48)                                 599     227    37.9      4 
+greene (51)                                 599      72    12.0      2 DESERT
+martin (27)                                 600     806   134.3     62 
+trinity (06)                                608     110    18.1      4 DESERT
+red willow (31)                             610     460    75.4     19 
+phelps (31)                                 611     556    91.0     21 
+fredericksburg city (51)                    611       0     0.0      0 DESERT
+caledonia (50)                              613    1623   264.8     68 
+orange (50)                                 613    1386   226.1     55 
+dodge (27)                                  614     810   131.9     47 
+meeker (27)                                 615     726   118.0     38 
+mariposa (06)                               619     138    22.3      6 DESERT
+wabasha (27)                                619     825   133.3     66 
+duval (48)                                  620     391    63.1      7 
+las animas (08)                             623     409    65.7      9 
+thurston (31)                               624     495    79.3      9 
+orleans (50)                                628    1133   180.4     62 
+lamoille (50)                               633    1487   234.9     45 
+trinity (48)                                637     284    44.6      3 
+carroll (51)                                643     128    19.9      6 DESERT
+cass (27)                                   644     672   104.3     57 
+holt (31)                                   647     523    80.8     33 
+pine (27)                                   654     833   127.4     48 
+adair (40)                                  657     213    32.4      7 DESERT
+dinwiddie (51)                              661     259    39.2      8 
+cuming (31)                                 662     268    40.5     13 
+franklin (48)                               664       0     0.0      0 DESERT
+new kent (51)                               665     379    57.0      6 
+powhatan (51)                               666     491    73.7      7 
+staunton city (51)                          666       0     0.0      0 DESERT
+zavala (48)                                 671     492    73.3      7 
+smyth (51)                                  671     212    31.6      3 DESERT
+live oak (48)                               672      34     5.1      1 DESERT
+amherst (51)                                674      92    13.6      3 DESERT
+woodward (40)                               679     391    57.6     13 
+fulton (42)                                 681     130    19.1      6 DESERT
+waynesboro city (51)                        684       0     0.0      0 DESERT
+grand (08)                                  688    1805   262.4     23 
+morris (48)                                 688     298    43.3      4 
+brown (27)                                  688    1436   208.7     90 
+mecklenburg (51)                            691     405    58.6      7 
+ochiltree (48)                              697     291    41.8      7 
+seminole (40)                               697     549    78.8     13 
+red river (48)                              705       6     0.9      2 DESERT
+custer (31)                                 706     356    50.4     17 
+moffat (08)                                 711     405    57.0      6 
+botetourt (51)                              712     194    27.2      3 DESERT
+chaffee (08)                                714    1194   167.2     17 
+parmer (48)                                 716      86    12.0      4 DESERT
+yuma (08)                                   718     350    48.7     13 
+karnes (48)                                 725     286    39.4     11 
+freeborn (27)                               732     824   112.6     50 
+jim hogg (48)                               734     193    26.3      7 DESERT
+wythe (51)                                  739     169    22.9      6 DESERT
+colonial heights city (51)                  741       0     0.0      0 DESERT
+mille lacs (27)                             742     946   127.5     47 
+le sueur (27)                               743     914   123.0     66 
+addison (50)                                744    2075   278.9     59 
+garvin (40)                                 747     433    58.0     29 
+beckham (40)                                749     589    78.6     19 
+callahan (48)                               757     374    49.4     12 
+prowers (08)                                758     407    53.7      9 
+wise (51)                                   761     112    14.7      5 DESERT
+comanche (48)                               763     164    21.5      7 DESERT
+potter (42)                                 766     232    30.3      5 DESERT
+caddo (40)                                  766     774   101.0     25 
+yoakum (48)                                 768      37     4.8      1 DESERT
+texas (40)                                  771     336    43.6     20 
+tyler (48)                                  773     129    16.7      4 DESERT
+fluvanna (51)                               776     580    74.7      8 
+windham (50)                                780    1906   244.4     70 
+bennington (50)                             782    1713   219.1     63 
+pulaski (51)                                790      88    11.1      1 DESERT
+king george (51)                            791      28     3.5      2 DESERT
+dawson (48)                                 793     252    31.8      3 DESERT
+madison (48)                                803     233    29.0     10 DESERT
+pacific (53)                                804     323    40.2      8 
+schuyler (36)                               805     299    37.1      9 
+jefferson (53)                              808     132    16.3      3 DESERT
+hopewell city (51)                          818       0     0.0      0 DESERT
+caroline (51)                               820     129    15.7      5 DESERT
+todd (27)                                   824     544    66.0     53 
+halifax (51)                                843     175    20.8      3 DESERT
+plumas (06)                                 844     209    24.8      8 DESERT
+leon (48)                                   845     238    28.2      5 DESERT
+ward (48)                                   845     265    31.4      4 DESERT
+terry (48)                                  848     192    22.6      7 DESERT
+colfax (31)                                 851     362    42.5     17 
+teller (08)                                 853    1641   192.4     22 
+jones (48)                                  855     167    19.5     13 DESERT
+camp (48)                                   857     353    41.2      6 
+york (31)                                   859     688    80.1     27 
+tazewell (51)                               859      22     2.6      2 DESERT
+nolan (48)                                  861     622    72.2     10 
+mcleod (27)                                 868    1504   173.3     91 
+lamb (48)                                   869     129    14.8      4 DESERT
+wilbarger (48)                              872     671    76.9     15 
+accomack (51)                               873     135    15.5      6 DESERT
+reeves (48)                                 876     310    35.4      3 
+polk (27)                                   877    1531   174.6     98 
+carlton (27)                                884    1366   154.5     69 
+bandera (48)                                885     353    39.9      3 
+gloucester (51)                             895     705    78.8      7 
+inyo (06)                                   903     303    33.6     13 
+jackson (40)                                909     503    55.3     14 
+llano (48)                                  911     283    31.1      8 DESERT
+delaware (40)                               911     761    83.5     26 
+morrison (27)                               914    1346   147.3     98 
+lyon (27)                                   915    1321   144.4     80 
+routt (08)                                  916    1494   163.1     33 
+custer (40)                                 916     883    96.4     36 
+becker (27)                                 924     968   104.8    100 
+isle of wight (51)                          928     260    28.0      9 DESERT
+saline (31)                                 929     497    53.5     21 
+montague (48)                               929     149    16.0      5 DESERT
+burleson (48)                               931     254    27.3      8 DESERT
+pecos (48)                                  937     376    40.1      6 
+prince george (51)                          937     418    44.6      7 
+bosque (48)                                 941     126    13.4      6 DESERT
+alamosa (08)                                958     588    61.4     15 
+falls (48)                                  960     133    13.9      8 DESERT
+seward (31)                                 963     976   101.3     25 
+henry (51)                                  963     680    70.6      9 
+winchester city (51)                        963       0     0.0      0 DESERT
+young (48)                                  964     549    57.0      8 
+eastland (48)                               965     260    26.9      7 DESERT
+otoe (31)                                   972     478    49.2     24 
+nicollet (27)                               974    1415   145.3     60 
+nobles (27)                                 978     597    61.0     46 
+ottawa (40)                                 978     749    76.6     21 
+lincoln (40)                                981     574    58.5     19 
+montour (42)                                993     907    91.3     11 
+louisa (51)                                 993     288    29.0      7 DESERT
+okmulgee (40)                               995     766    77.0     24 
+jackson (48)                                996     521    52.3     16 
+freestone (48)                              997      81     8.1      6 DESERT
+logan (08)                                 1001     530    52.9     21 
+frio (48)                                  1016     426    41.9      9 
+itasca (27)                                1019    1387   136.1     78 
+mccurtain (40)                             1021     901    88.2     25 
+zapata (48)                                1024     433    42.3      7 
+otero (08)                                 1028     585    56.9     12 
+klickitat (53)                             1043     158    15.1      5 DESERT
+orange (51)                                1047     154    14.7     10 DESERT
+osage (40)                                 1054     780    74.0     31 
+steele (27)                                1055    1672   158.5     92 
+warren (51)                                1061     266    25.1      6 DESERT
+douglas (27)                               1062    1770   166.7    120 
+scurry (48)                                1064     475    44.6      9 
+lee (48)                                   1069     538    50.3     12 
+robertson (48)                             1069     453    42.4      7 
+fairfax city (51)                          1073     210    19.6      4 DESERT
+washington (51)                            1074     244    22.7     10 DESERT
+washington (31)                            1078     896    83.1     27 
+pittsylvania (51)                          1079     107     9.9      3 DESERT
+mayes (40)                                 1087     641    59.0     20 
+hutchinson (48)                            1095     667    60.9      8 
+gage (31)                                  1098    1286   117.1     46 
+lampasas (48)                              1105     189    17.1      7 DESERT
+winona (27)                                1108    1826   164.8    108 
+aransas (48)                               1109     567    51.1      7 
+houston (48)                               1128     316    28.0      4 DESERT
+windsor (50)                               1133    3309   292.1    101 
+benton (27)                                1138    1855   163.0    117 
+summit (08)                                1144    1859   162.5     36 
+pontotoc (40)                              1144    1003    87.7     20 
+willacy (48)                               1153     570    49.4     10 
+stephens (40)                              1157     691    59.7     17 
+calhoun (48)                               1163     870    74.8     14 
+washington (50)                            1175    2694   229.3     98 
+shenandoah (51)                            1176     745    63.4     14 
+charlottesville city (51)                  1178       0     0.0      0 DESERT
+dewitt (48)                                1183     580    49.0     12 
+gray (48)                                  1185     597    50.4      8 
+wyoming (42)                               1192     250    21.0     11 DESERT
+goodhue (27)                               1197    1374   114.8     88 
+isanti (27)                                1210    1031    85.2     52 
+fayette (48)                               1212     482    39.8     16 
+rutland (50)                               1218    3170   260.3    101 
+pittsburg (40)                             1221     959    78.5     30 
+danville city (51)                         1223       0     0.0      0 DESERT
+mcclain (40)                               1234    1074    87.0     27 
+lavaca (48)                                1235     707    57.2     21 
+montezuma (08)                             1250    1004    80.3     16 
+sequoyah (40)                              1254     975    77.8     23 
+gillespie (48)                             1256     393    31.3     11 DESERT
+harrisonburg city (51)                     1258       0     0.0      0 DESERT
+cherokee (40)                              1263    1224    96.9     39 
+asotin (53)                                1265     501    39.6     11 
+kay (40)                                   1267    1116    88.1     50 
+limestone (48)                             1284     172    13.4      4 DESERT
+panola (48)                                1288     421    32.7      4 DESERT
+schoharie (36)                             1289     425    33.0     15 
+gonzales (48)                              1312     413    31.5      7 DESERT
+essex (36)                                 1315     946    71.9     35 
+del norte (06)                             1349     270    20.0     10 DESERT
+colusa (06)                                1364     509    37.3     17 
+franklin (50)                              1364    1872   137.2     96 
+beltrami (27)                              1365    1400   102.6    121 
+logan (40)                                 1368     375    27.4     16 DESERT
+mower (27)                                 1375    1128    82.0     65 
+elbert (08)                                1384    2581   186.5     19 
+elk (42)                                   1385     505    36.5     18 
+kandiyohi (27)                             1387    1677   120.9    100 
+colorado (48)                              1388     868    62.5     10 
+lassen (06)                                1389     366    26.3     12 DESERT
+saunders (31)                              1396    1203    86.2     34 
+washington (40)                            1400    1577   112.6     37 
+cass (31)                                  1402    1050    74.9     25 
+juniata (42)                               1402      91     6.5      8 DESERT
+milam (48)                                 1418     538    37.9     13 
+franklin (51)                              1420     390    27.5     10 DESERT
+delta (08)                                 1439     721    50.1     20 
+le flore (40)                              1448    1407    97.2     43 
+campbell (51)                              1451     366    25.2      7 DESERT
+hockley (48)                               1458     238    16.3      8 DESERT
+san jacinto (48)                           1463     461    31.5      9 DESERT
+grady (40)                                 1466     858    58.5     23 
+petersburg city (51)                       1487       0     0.0      0 DESERT
+andrews (48)                               1496    1028    68.7      8 
+otter tail (27)                            1512    2266   149.9    163 
+bee (48)                                   1515     496    32.7      8 DESERT
+bryan (40)                                 1520    1305    85.9     38 
+carter (40)                                1537    1498    97.5     34 
+lewis (36)                                 1539    1214    78.9     18 
+yates (36)                                 1544     387    25.1     11 DESERT
+greene (42)                                1562     374    23.9     23 DESERT
+shelby (48)                                1572     322    20.5      5 DESERT
+amador (06)                                1581     335    21.2     13 DESERT
+augusta (51)                               1587     491    30.9      9 DESERT
+chisago (27)                               1613    1469    91.1     83 
+blue earth (27)                            1638    2674   163.2    105 
+grimes (48)                                1656     894    54.0     17 
+manassas city (51)                         1664       0     0.0      0 DESERT
+cass (48)                                  1679     434    25.8      8 DESERT
+crow wing (27)                             1679    2178   129.7    108 
+deaf smith (48)                            1682       0     0.0      0 DESERT
+seneca (36)                                1709     467    27.3     17 DESERT
+delaware (36)                              1710     814    47.6     39 
+york (51)                                  1712    1003    58.6     11 
+palo pinto (48)                            1714     674    39.3     15 
+culpeper (51)                              1719     429    25.0      7 DESERT
+mckean (42)                                1741     561    32.2     18 DESERT
+austin (48)                                1750     951    54.3     13 
+dakota (31)                                1760     738    41.9     22 
+rice (27)                                  1768    1831   103.6    102 
+washington (48)                            1786    1633    91.4     19 
+adams (53)                                 1787     250    14.0      2 DESERT
+montgomery (51)                            1794     475    26.5     15 DESERT
+uvalde (48)                                1814     637    35.1     14 
+bedford (51)                               1816     480    26.4     10 DESERT
+susquehanna (42)                           1830     341    18.6     16 DESERT
+union (42)                                 1836     648    35.3     11 
+fannin (48)                                1839     486    26.4      9 DESERT
+moore (48)                                 1858     494    26.6     11 DESERT
+wyoming (36)                               1863     647    34.7     24 
+orleans (36)                               1864     716    38.4     17 
+lincoln (31)                               1870    1193    63.8     30 
+jasper (48)                                1871    1016    54.3     20 
+james city (51)                            1886     623    33.0      7 
+clarion (42)                               1896     403    21.3     18 DESERT
+glenn (06)                                 1897     264    13.9     10 DESERT
+dawson (31)                                1902    1261    66.3     42 
+fremont (08)                               1917     966    50.4     19 
+howard (48)                                1927     892    46.3      9 
+huntingdon (42)                            1930     387    20.1     27 DESERT
+whitman (53)                               1938     774    39.9      9 
+warren (42)                                1945     675    34.7     16 
+brown (48)                                 1946    1253    64.4     23 
+calaveras (06)                             1952     555    28.4     22 DESERT
+kittitas (53)                              1955     879    45.0     13 
+siskiyou (06)                              1971     560    28.4     20 DESERT
+morgan (08)                                1995    1006    50.4     27 
+tioga (42)                                 1999     922    46.1     28 
+wood (48)                                  2005     660    32.9     15 DESERT
+adams (31)                                 2016    1466    72.7     40 
+montrose (08)                              2025     734    36.2     23 
+muskogee (40)                              2031    1808    89.0     57 
+pottawatomie (40)                          2040    1159    56.8     28 
+kleberg (48)                               2047    1385    67.7     21 
+roanoke (51)                               2051    1508    73.5     22 
+greene (36)                                2061     573    27.8     22 DESERT
+clay (27)                                  2063    2833   137.3    156 
+fauquier (51)                              2077    1055    50.8     25 
+snyder (42)                                2079     567    27.3     18 DESERT
+wayne (42)                                 2094     883    42.2     27 
+hale (48)                                  2097     764    36.4     18 
+clinton (42)                               2104     774    36.8     14 
+payne (40)                                 2113    1596    75.5     31 
+hill (48)                                  2131     558    26.2     14 DESERT
+creek (40)                                 2157    1274    59.1     35 
+titus (48)                                 2173     786    36.2      7 
+cortland (36)                              2174    1068    49.1     34 
+gaines (48)                                2207     705    31.9      8 DESERT
+garfield (40)                              2215    1443    65.1     36 
+tuolumne (06)                              2230    1074    48.2     19 
+scotts bluff (31)                          2238    2182    97.5     56 
+franklin (36)                              2243     829    37.0     37 
+rockingham (51)                            2256     655    29.0     11 DESERT
+kendall (48)                               2257    2766   122.6     34 
+la plata (08)                              2274    2130    93.7     44 
+venango (42)                               2285    1455    63.7     17 
+columbia (36)                              2302    1205    52.3     24 
+okanogan (53)                              2305     673    29.2     20 DESERT
+pike (42)                                  2314     692    29.9     18 DESERT
+platte (31)                                2319    1875    80.9     56 
+wagoner (40)                               2337    1432    61.3     46 
+allegany (36)                              2342    1219    52.0     28 
+jefferson (42)                             2343     610    26.0     19 DESERT
+otsego (36)                                2344     923    39.4     29 
+stevens (53)                               2344     411    17.5      8 DESERT
+tioga (36)                                 2355     813    34.5     28 
+chenango (36)                              2357     718    30.5     42 DESERT
+bedford (42)                               2394     675    28.2     22 DESERT
+dodge (31)                                 2397    1730    72.2     38 
+kerr (48)                                  2403    1438    59.8     16 
+fulton (36)                                2408    1067    44.3     20 
+perry (42)                                 2448     594    24.3     16 DESERT
+lynchburg city (51)                        2455       0     0.0      0 DESERT
+madison (31)                               2465    2256    91.5     67 
+hopkins (48)                               2466     252    10.2     16 DESERT
+erath (48)                                 2475    1040    42.0     20 
+matagorda (48)                             2497     753    30.2     16 DESERT
+upshur (48)                                2530    1013    40.0     12 
+jim wells (48)                             2576     957    37.2     18 
+frederick (51)                             2583    1185    45.9     14 
+hanover (51)                               2606    1716    65.8     19 
+polk (48)                                  2624    1116    42.5      8 
+cooke (48)                                 2635    1178    44.7     20 
+livingston (36)                            2656    1789    67.4     35 
+burnet (48)                                2659    1727    64.9     21 
+douglas (53)                               2717     382    14.1      6 DESERT
+rogers (40)                                2742    1985    72.4     37 
+eagle (08)                                 2753    2913   105.8     53 
+warren (36)                                2761    1611    58.3     38 
+washington (36)                            2772     812    29.3     40 DESERT
+columbia (42)                              2779    1768    63.6     31 
+armstrong (42)                             2788     959    34.4     28 
+wilson (48)                                2815    2280    81.0     29 
+wharton (48)                               2818    1391    49.4     18 
+albemarle (51)                             2824     960    34.0     27 
+mifflin (42)                               2859     653    22.8     18 DESERT
+rusk (48)                                  2865     640    22.3     12 DESERT
+cape may (34)                              2906    2183    75.1     32 
+herkimer (36)                              2910     748    25.7     38 DESERT
+genesee (36)                               2920    1000    34.2     24 
+clallam (53)                               2948    1037    35.2     24 
+medina (48)                                2950    1695    57.5     25 
+anderson (48)                              2951    1588    53.8     17 
+buffalo (31)                               2955    3940   133.3    103 
+carbon (42)                                2979    1377    46.2     25 
+sherburne (27)                             2983    3444   115.5    184 
+madison (36)                               3004     985    32.8     29 DESERT
+walla walla (53)                           3025    1039    34.3     16 
+montgomery (36)                            3060     860    28.1     24 DESERT
+caldwell (48)                              3060    1524    49.8     22 
+carver (27)                                3075    6842   222.5    163 
+salem (34)                                 3079    1636    53.1     24 
+suffolk city (51)                          3143       0     0.0      0 DESERT
+walker (48)                                3149    2771    88.0     27 
+lamar (48)                                 3210    1281    39.9     20 
+hood (48)                                  3243    1594    49.2     23 
+portsmouth city (51)                       3277       0     0.0      0 DESERT
+bradford (42)                              3282    1520    46.3     30 
+hardin (48)                                3302    2923    88.5     28 
+somerset (42)                              3322    1344    40.5     37 
+atascosa (48)                              3336    1155    34.6     16 
+broomfield (08)                            3360    4362   129.8     57 
+clinton (36)                               3381    2136    63.2     89 
+chambers (48)                              3416    1802    52.8     23 
+cherokee (48)                              3447     972    28.2     13 DESERT
+clearfield (42)                            3470    1467    42.3     49 
+mason (53)                                 3500     792    22.6     14 DESERT
+roanoke city (51)                          3519    2674    76.0     35 
+van zandt (48)                             3552    1202    33.8     17 
+chittenden (50)                            3553   10740   302.3    208 
+cayuga (36)                                3571    2181    61.1     50 
+tompkins (36)                              3590    2242    62.5     56 
+grays harbor (53)                          3618    1122    31.0     20 DESERT
+val verde (48)                             3647    1391    38.1     19 
+navarro (48)                               3684    1740    47.2     32 
+indiana (42)                               3718     953    25.6     21 DESERT
+lake (06)                                  3751     687    18.3     24 DESERT
+tehama (06)                                3756     908    24.2     34 DESERT
+waller (48)                                3778    2744    72.6     38 
+comanche (40)                              3863    3419    88.5     75 
+nacogdoches (48)                           3942    1332    33.8     18 
+kauai (15)                                 3964    1131    28.5     50 DESERT
+garfield (08)                              3969    2144    54.0     64 
+harrison (48)                              3977    2184    54.9     29 
+cattaraugus (36)                           3997    2084    52.1     36 
+hampton city (51)                          4008       0     0.0      0 DESERT
+nevada (06)                                4031    1563    38.8     45 
+spotsylvania (51)                          4094     861    21.0     24 DESERT
+island (53)                                4139    1302    31.5     22 DESERT
+chemung (36)                               4188    2044    48.8     90 
+lawrence (42)                              4243    2245    52.9     45 
+san benito (06)                            4314     893    20.7     20 DESERT
+wise (48)                                  4363    1508    34.6     30 
+crawford (42)                              4369    1833    42.0     38 
+chelan (53)                                4405    1302    29.6     24 DESERT
+northumberland (42)                        4429    1804    40.7     38 
+scott (27)                                 4477    7323   163.6    275 
+st. louis (27)                             4545       0     0.0      0 DESERT
+hall (31)                                  4586    2544    55.5     77 
+san patricio (48)                          4624    1901    41.1     34 
+putnam (36)                                4630    2732    59.0     59 
+wright (27)                                4648    6258   134.6    266 
+mendocino (06)                             4666    1422    30.5     41 DESERT
+henderson (48)                             4711    2545    54.0     27 
+sullivan (36)                              4785    1669    34.9     47 
+lewis (53)                                 4812    1077    22.4     18 DESERT
+warren (34)                                4871    3085    63.3     49 
+stafford (51)                              4873    1398    28.7     42 DESERT
+wayne (36)                                 4883    1562    32.0     39 DESERT
+adams (42)                                 4899    1688    34.5     50 
+olmsted (27)                               4996    8948   179.1    314 
+maverick (48)                              4999    1764    35.3     25 
+steuben (36)                               5001    3446    68.9    104 
+stearns (27)                               5005    6345   126.8    337 
+alexandria city (51)                       5062       0     0.0      0 DESERT
+st. lawrence (36)                          5076    2822    55.6     80 
+ontario (36)                               5155    3419    66.3     68 
+mercer (42)                                5202    2034    39.1     60 
+canadian (40)                              5283    4129    78.2    113 
+bowie (48)                                 5362    4157    77.5     46 
+coryell (48)                               5387    1907    35.4     34 
+orange (48)                                5444    4189    76.9     53 
+angelina (48)                              5656    3438    60.8     35 
+centre (42)                                5673    4462    78.7     82 
+arlington (51)                             5805    1743    30.0     66 DESERT
+lycoming (42)                              5874    2833    48.2     52 
+starr (48)                                 5941    2152    36.2     28 
+fayette (42)                               5973    1998    33.5     52 
+victoria (48)                              5987    4226    70.6     63 
+blair (42)                                 6011    3329    55.4     72 
+napa (06)                                  6029    2159    35.8     57 
+oswego (36)                                6032    1938    32.1     64 DESERT
+sutter (06)                                6139    1575    25.7     35 DESERT
+newport news city (51)                     6167       0     0.0      0 DESERT
+yuba (06)                                  6171    1235    20.0     30 DESERT
+cambria (42)                               6187    2795    45.2     58 
+humboldt (06)                              6214    1836    29.5     55 DESERT
+cowlitz (53)                               6390    1856    29.0     26 DESERT
+chautauqua (36)                            6429    2688    41.8     71 
+hunterdon (34)                             6443    6398    99.3     67 
+richmond city (51)                         6588       0     0.0      0 DESERT
+schuylkill (42)                            6693    2639    39.4     52 
+hunt (48)                                  6899    2389    34.6     33 
+bastrop (48)                               6962    3802    54.6     56 
+skagit (53)                                6979    1967    28.2     39 DESERT
+cleveland (40)                             7035    8758   124.5    193 
+grant (53)                                 7205    1641    22.8     24 DESERT
+sussex (34)                                7325    3669    50.1     64 
+norfolk city (51)                          7341       0     0.0      0 DESERT
+tom green (48)                             7368    5464    74.2     65 
+rockwall (48)                              7404    6680    90.2     67 
+chesapeake city (51)                       7537       0     0.0      0 DESERT
+monroe (42)                                7586    4910    64.7     73 
+washington (27)                            7589   11999   158.1    375 
+potter (48)                                7766    3416    44.0     51 
+rensselaer (36)                            7818    3710    47.5     96 
+franklin (53)                              7837    2188    27.9     33 DESERT
+liberty (48)                               7863    1877    23.9     29 DESERT
+ulster (36)                                7868    3877    49.3    116 
+wichita (48)                               7871    4306    54.7     68 
+mesa (08)                                  7918    4990    63.0    115 
+beaver (42)                                8000    3441    43.0     74 
+lebanon (42)                               8017    2475    30.9     98 DESERT
+gregg (48)                                 8319    5509    66.2     74 
+jefferson (36)                             8357    6518    78.0    102 
+el dorado (06)                             8610    3015    35.0     85 
+randall (48)                               8648    5456    63.1     76 
+franklin (42)                              8748    2290    26.2     77 DESERT
+grayson (48)                               8778    4925    56.1     70 
+maui (15)                                  8821    2830    32.1    122 DESERT
+pueblo (08)                                9027    3201    35.5    114 
+schenectady (36)                           9161    5132    56.0    151 
+henrico (51)                               9317    5022    53.9    101 
+cumberland (34)                            9334    7754    83.1     69 
+broome (36)                                9402    4968    52.8    110 
+butler (42)                                9406    4945    52.6     80 
+shasta (06)                                9628    2790    29.0     70 DESERT
+comal (48)                                 9703    5631    58.0     73 
+parker (48)                                9817    7717    78.6     83 
+taylor (48)                                9844    5306    53.9     99 
+washington (42)                           10254    4850    47.3     89 
+niagara (36)                              10503    4908    46.7    101 
+yolo (06)                                 10516    4865    46.3    105 
+whatcom (53)                              10525    3772    35.8     71 
+guadalupe (48)                            10537    6629    62.9     91 
+hawaii (15)                               10592    3552    33.5    120 
+madera (06)                               10693    2265    21.2     61 DESERT
+kent (10)                                 10736   10781   100.4    224 
+butte (06)                                10776    3742    34.7    100 
+anoka (27)                                10825   13613   125.8    468 
+lackawanna (42)                           10847    6785    62.6    120 
+chesterfield (51)                         10863    5656    52.1     87 
+kings (06)                                10887    1713    15.7     39 DESERT
+saratoga (36)                             10903    7371    67.6    149 
+marin (06)                                11325    7745    68.4    150 
+santa cruz (06)                           11642    5178    44.5    121 
+johnson (48)                              12213    5644    46.2     64 
+san luis obispo (06)                      12304    4912    39.9    114 
+oneida (36)                               12431    4449    35.8    176 
+sussex (10)                               12513   10786    86.2    247 
+imperial (06)                             12744    3184    25.0     67 DESERT
+kaufman (48)                              12781    6084    47.6     94 
+boulder (08)                              12786   19591   153.2    288 
+sarpy (31)                                12851   15631   121.6    219 
+virginia beach city (51)                  12957       0     0.0      0 DESERT
+dakota (27)                               13013   20320   156.2    611 
+loudoun (51)                              13062    4306    33.0    198 
+brazos (48)                               13304    9159    68.8    123 
+benton (53)                               13446    4210    31.3     61 DESERT
+dutchess (36)                             13522    7751    57.3    203 
+atlantic (34)                             13581    8290    61.0    107 
+ellis (48)                                13777    6770    49.1     98 
+erie (42)                                 13832    9067    65.6    138 
+cumberland (42)                           14067    8666    61.6    119 
+ector (48)                                14113    4955    35.1     63 
+kitsap (53)                               14468    4754    32.9     81 DESERT
+midland (48)                              14499   12756    88.0    120 
+albany (36)                               14646   13228    90.3    232 
+northampton (42)                          14771    9346    63.3    134 
+smith (48)                                15154    7377    48.7    102 
+westmoreland (42)                         15169    7209    47.5    140 
+hays (48)                                 15524   12153    78.3    154 
+gloucester (34)                           15670   10347    66.0    130 
+thurston (53)                             15827    6701    42.3     92 
+larimer (08)                              15898   18600   117.0    300 
+prince william (51)                       16034    4368    27.2    167 DESERT
+ramsey (27)                               16556   18934   114.4    567 
+jefferson (48)                            16757   10014    59.8    117 
+mclennan (48)                             16761   12094    72.2    155 
+dauphin (42)                              17059   12342    72.3    164 
+luzerne (42)                              17064   10556    61.9    175 
+somerset (34)                             17363   19850   114.3    173 
+yakima (53)                               18338    6615    36.1     98 
+lancaster (31)                            18868   22118   117.2    389 
+lubbock (48)                              19949   15638    78.4    189 
+douglas (08)                              20324   20823   102.5    307 
+merced (06)                               20395    4773    23.4    114 DESERT
+galveston (48)                            20442   15337    75.0    130 
+placer (06)                               20778   12728    61.3    196 
+nueces (48)                               21405   11347    53.0    163 
+lehigh (42)                               21426   16675    77.8    372 
+webb (48)                                 21779    7416    34.1    124 
+tulsa (40)                                21807   22691   104.1    467 
+mercer (34)                               21881   20159    92.1    209 
+sonoma (06)                               22502    7995    35.5    169 
+berks (42)                                23694   12043    50.8    181 
+weld (08)                                 23770   13582    57.1    313 
+burlington (34)                           24239   14418    59.5    146 
+brazoria (48)                             24539   21646    88.2    218 
+york (42)                                 25137   10214    40.6    187 
+onondaga (36)                             25388   13717    54.0    410 
+solano (06)                               25481    6797    26.7    139 DESERT
+morris (34)                               25744   25345    98.5    270 
+oklahoma (40)                             26707   28136   105.4    644 
+santa barbara (06)                        26895    7629    28.4    171 DESERT
+jefferson (08)                            26993   30723   113.8    492 
+orange (36)                               27339   10294    37.7    228 
+monterey (06)                             28601    6146    21.5    140 DESERT
+clark (53)                                28892    9892    34.2    134 
+chester (42)                              29143   19698    67.6    263 
+bell (48)                                 29750   15437    51.9    250 
+rockland (36)                             29791   11448    38.4    252 
+bucks (42)                                30186   22356    74.1    295 
+cameron (48)                              30267   14193    46.9    202 
+spokane (53)                              30334   23864    78.7    528 
+camden (34)                               31205   22091    70.8    235 
+new castle (10)                           31539   48329   153.2    770 
+fairfax (51)                              32338   13063    40.4    642 
+passaic (34)                              32622   23900    73.3    234 
+monmouth (34)                             32685   25115    76.8    267 
+delaware (42)                             32930   21032    63.9    334 
+adams (08)                                33697   18353    54.5    345 
+san francisco (06)                        34146   20434    59.8    404 
+tulare (06)                               34687    6150    17.7    129 DESERT
+lancaster (42)                            34744   11769    33.9    228 
+union (34)                                35877   25405    70.8    279 
+hennepin (27)                             36499   58062   159.1   1316 
+stanislaus (06)                           36821    7081    19.2    163 DESERT
+arapahoe (08)                             37890   32327    85.3    501 
+san mateo (06)                            37891   26484    69.9    417 
+denver (08)                               38368   33436    87.1    454 
+monroe (36)                               39085   22332    57.1    670 
+douglas (31)                              40422   51495   127.4    756 
+williamson (48)                           40481   42795   105.7    525 
+hudson (34)                               42564   34155    80.2    392 
+montgomery (48)                           43327   30423    70.2    283 
+ventura (06)                              44164   17293    39.2    284 
+montgomery (42)                           45190   38553    85.3    448 
+el paso (08)                              45550   27715    60.8    545 
+middlesex (34)                            45627   34278    75.1    352 
+ocean (34)                                49223   13744    27.9    155 DESERT
+erie (36)                                 49525   27195    54.9    482 
+bergen (34)                               49626   40973    82.6    438 
+snohomish (53)                            50557   30532    60.4    523 
+san joaquin (06)                          51565   11856    23.0    251 DESERT
+westchester (36)                          52626   45968    87.3    874 
+essex (34)                                53886   43641    81.0    471 
+fort bend (48)                            54004   49789    92.2    562 
+pierce (53)                               56257   21083    37.5    302 
+denton (48)                               56401   45652    80.9    543 
+honolulu (15)                             56781   21833    38.5    441 
+el paso (48)                              57585   21991    38.2    347 
+allegheny (42)                            61788   39656    64.2    717 
+contra costa (06)                         61924   32066    51.8    535 
+kern (06)                                 64206   12667    19.7    239 DESERT
+collin (48)                               67334   81533   121.1    749 
+hidalgo (48)                              69846   32808    47.0    482 
+fresno (06)                               71086   16857    23.7    374 DESERT
+nassau (36)                               73174   59032    80.7   1217 
+travis (48)                               74539   57532    77.2    663 
+suffolk (36)                              81109   45637    56.3    908 
+alameda (06)                              86381   43488    50.3    743 
+sacramento (06)                           94169   34425    36.6    654 
+philadelphia (42)                         94457   82560    87.4   1735 
+santa clara (06)                          98758   52756    53.4    789 
+king (53)                                119275   69570    58.3    906 
+bexar (48)                               132802   66190    49.8    838 
+tarrant (48)                             138610   80783    58.3   1045 
+san bernardino (06)                      139323   30229    21.7    587 DESERT
+riverside (06)                           144366   32391    22.4    559 DESERT
+orange (06)                              165190   74014    44.8   1151 
+dallas (48)                              179339   90482    50.5   1078 
+san diego (06)                           183613   69243    37.7   1178 
+harris (48)                              330675  203476    61.5   2464 
+los angeles (06)                         501022  188220    37.6   3259 
+
+covered counties: 967 | deserts (<33/100): 302 (31.2%)
+excluded (no county field in source data): state FIPS ['09', '25', '55'] (WI has no county column; CT/NYC sources lack it — see README limitations)
