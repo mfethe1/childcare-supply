@@ -1,0 +1,53 @@
+{
+ "socrata": [],
+ "arcgis": [
+  {
+   "org": "Wisconsin Department of Health Services",
+   "name": "Wisconsin Child Care Providers",
+   "endpoint": "https://dhsgis.wi.gov/server/rest/services/DHS_DCF/Child_Care/MapServer/0",
+   "desc": ""
+  },
+  {
+   "org": "Colorado Department of Public Health and Environment",
+   "name": "CDEC Colorado Licensed Childcare Providers",
+   "endpoint": "https://www.cohealthmaps.dphe.state.co.us/arcgis/rest/services/OPEN_DATA/cdphe_cdec_licensed_childcare_providers/MapServer/0",
+   "desc": ""
+  },
+  {
+   "org": "State of Nebraska",
+   "name": "DHHS Licensed Child Care",
+   "endpoint": "https://gis.ne.gov/Agency/rest/services/DHHS_Licensed_Child_Care/FeatureServer/0",
+   "desc": ""
+  },
+  {
+   "org": "State of Michigan",
+   "name": "Child Care",
+   "endpoint": "https://utility.arcgis.com/usrsvcs/servers/a79c3b0caedf412599085941e2af91d4/rest/services/CSS/CSS_LARA/MapServer/5",
+   "desc": ""
+  },
+  {
+   "org": "Colorado Department of Public Health and Environment",
+   "name": "Licensed Childcare Providers (CDHS)",
+   "endpoint": "",
+   "desc": ""
+  },
+  {
+   "org": "State of Nebraska",
+   "name": "DHHS Licensed Child Care",
+   "endpoint": "https://gis.ne.gov/Agency/rest/services/DHHS_Licensed_Child_Care/FeatureServer/0",
+   "desc": ""
+  },
+  {
+   "org": "Colorado Department of Public Health and Environment",
+   "name": "CDEC Colorado Licensed Childcare Providers",
+   "endpoint": "https://www.cohealthmaps.dphe.state.co.us/arcgis/rest/services/OPEN_DATA/cdphe_cdec_licensed_childcare_providers/MapServer/0",
+   "desc": ""
+  },
+  {
+   "org": "State of Michigan",
+   "name": "Child Care",
+   "endpoint": "https://utility.arcgis.com/usrsvcs/servers/a79c3b0caedf412599085941e2af91d4/rest/services/CSS/CSS_LARA/MapServer/5",
+   "desc": ""
+  }
+ ]
+}

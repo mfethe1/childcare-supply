@@ -1,0 +1,319 @@
+{
+ "alabama": {
+  "registry_urls": [
+   "https://apps.dhr.alabama.gov/daycare/daycare_search",
+   "https://childcare.gov/es/ver-recursos-de-su-estado/alabama",
+   "https://childcare.gov/state-resources/alabama"
+  ]
+ },
+ "alaska": {
+  "registry_urls": [
+   "https://childcare.gov/es/ver-recursos-de-su-estado/alaska",
+   "https://childcare.gov/state-resources/alaska"
+  ]
+ },
+ "arizona": {
+  "registry_urls": [
+   "https://azchildcareprovidersearch.azdes.gov/",
+   "https://childcare.gov/es/ver-recursos-de-su-estado/arizona",
+   "https://childcare.gov/state-resources/arizona"
+  ]
+ },
+ "arkansas": {
+  "registry_urls": [
+   "https://childcare.gov/es/ver-recursos-de-su-estado/arkansas",
+   "https://childcare.gov/state-resources/arkansas"
+  ]
+ },
+ "colorado": {
+  "registry_urls": [
+   "https://childcare.gov/es/ver-recursos-de-su-estado/colorado",
+   "https://childcare.gov/state-resources/colorado"
+  ]
+ },
+ "connecticut": {
+  "registry_urls": [
+   "https://childcare.gov/es/ver-recursos-de-su-estado/connecticut",
+   "https://childcare.gov/state-resources/connecticut",
+   "https://www.211childcare.org/"
+  ]
+ },
+ "florida": {
+  "registry_urls": [
+   "https://childcare.gov/es/ver-recursos-de-su-estado/florida",
+   "https://childcare.gov/state-resources/florida"
+  ]
+ },
+ "georgia": {
+  "registry_urls": [
+   "https://childcare.gov/es/ver-recursos-de-su-estado/georgia",
+   "https://childcare.gov/state-resources/georgia"
+  ]
+ },
+ "hawaii": {
+  "registry_urls": [
+   "https://childcare.gov/es/ver-recursos-de-su-estado/hawaii",
+   "https://childcare.gov/state-resources/hawaii",
+   "https://childcareprovidersearch.dhs.hawaii.gov/"
+  ]
+ },
+ "idaho": {
+  "registry_urls": [
+   "https://childcare.gov/es/ver-recursos-de-su-estado/idaho",
+   "https://childcare.gov/state-resources/idaho"
+  ]
+ },
+ "illinois": {
+  "registry_urls": [
+   "https://childcare.gov/es/ver-recursos-de-su-estado/illinois",
+   "https://childcare.gov/state-resources/illinois",
+   "https://www.illinoiscaresforkids.org/provider-search/?zip"
+  ]
+ },
+ "indiana": {
+  "registry_urls": [
+   "https://childcare.gov/es/ver-recursos-de-su-estado/indiana",
+   "https://childcare.gov/state-resources/indiana",
+   "https://www.in.gov/fssa/childcarefinder/"
+  ]
+ },
+ "iowa": {
+  "registry_urls": [
+   "https://childcare.gov/es/ver-recursos-de-su-estado/iowa",
+   "https://childcare.gov/state-resources/iowa",
+   "https://search.iachildcareconnect.org/"
+  ]
+ },
+ "kansas": {
+  "registry_urls": [
+   "https://childcare.gov/es/ver-recursos-de-su-estado/kansas",
+   "https://childcare.gov/state-resources/kansas",
+   "https://ks.childcareaware.org/childcaresearch/"
+  ]
+ },
+ "kentucky": {
+  "registry_urls": [
+   "https://childcare.gov/es/ver-recursos-de-su-estado/kentucky",
+   "https://childcare.gov/state-resources/kentucky",
+   "https://kynect.ky.gov/benefits/s/child-care-provider?origin=program-page&amp;language=en_US"
+  ]
+ },
+ "louisiana": {
+  "registry_urls": [
+   "https://childcare.gov/es/ver-recursos-de-su-estado/louisiana",
+   "https://childcare.gov/state-resources/louisiana"
+  ]
+ },
+ "maine": {
+  "registry_urls": [
+   "https://childcare.gov/es/ver-recursos-de-su-estado/maine",
+   "https://childcare.gov/state-resources/maine"
+  ]
+ },
+ "maryland": {
+  "registry_urls": [
+   "https://childcare.gov/es/ver-recursos-de-su-estado/maryland",
+   "https://childcare.gov/state-resources/maryland"
+  ]
+ },
+ "massachusetts": {
+  "registry_urls": [
+   "https://childcare.gov/es/ver-recursos-de-su-estado/massachusetts",
+   "https://childcare.gov/state-resources/massachusetts",
+   "https://childcare.mass.gov/findchildcare"
+  ]
+ },
+ "michigan": {
+  "registry_urls": [
+   "https://childcare.gov/es/ver-recursos-de-su-estado/michigan",
+   "https://childcare.gov/state-resources/michigan"
+  ]
+ },
+ "minnesota": {
+  "registry_urls": [
+   "https://childcare.gov/es/ver-recursos-de-su-estado/minnesota",
+   "https://childcare.gov/state-resources/minnesota"
+  ]
+ },
+ "mississippi": {
+  "registry_urls": [
+   "https://childcare.gov/es/ver-recursos-de-su-estado/mississippi",
+   "https://childcare.gov/state-resources/mississippi",
+   "https://www.mdhs.provider.webapps.ms.gov/ccsearch.aspx"
+  ]
+ },
+ "missouri": {
+  "registry_urls": [
+   "https://childcare.gov/es/ver-recursos-de-su-estado/missouri",
+   "https://childcare.gov/state-resources/missouri",
+   "https://healthapps.dhss.mo.gov/childcaresearch/"
+  ]
+ },
+ "montana": {
+  "registry_urls": [
+   "https://childcare.gov/es/ver-recursos-de-su-estado/montana",
+   "https://childcare.gov/state-resources/montana",
+   "https://dphhs.mt.gov/ecfsd/childcare/childcarelicensing/providersearch"
+  ]
+ },
+ "nebraska": {
+  "registry_urls": [
+   "https://childcare.gov/es/ver-recursos-de-su-estado/nebraska",
+   "https://childcare.gov/state-resources/nebraska",
+   "https://dhhs.ne.gov/Pages/Search-for-Child-Care-Providers.aspx"
+  ]
+ },
+ "nevada": {
+  "registry_urls": [
+   "https://childcare.gov/es/ver-recursos-de-su-estado/nevada",
+   "https://childcare.gov/state-resources/nevada"
+  ]
+ },
+ "new-hampshire": {
+  "registry_urls": [
+   "https://childcare.gov/es/ver-recursos-de-su-estado/new-hampshire",
+   "https://childcare.gov/state-resources/new-hampshire"
+  ]
+ },
+ "new-jersey": {
+  "registry_urls": [
+   "https://childcare.gov/es/ver-recursos-de-su-estado/new-jersey",
+   "https://childcare.gov/state-resources/new-jersey",
+   "https://www.childcarenj.gov/Search"
+  ]
+ },
+ "new-mexico": {
+  "registry_urls": [
+   "https://childcare.ececd.nm.gov/search",
+   "https://childcare.gov/es/ver-recursos-de-su-estado/new-mexico",
+   "https://childcare.gov/state-resources/new-mexico"
+  ]
+ },
+ "north-carolina": {
+  "registry_urls": [
+   "https://childcare.gov/es/ver-recursos-de-su-estado/north-carolina",
+   "https://childcare.gov/state-resources/north-carolina",
+   "https://ncchildcare.ncdhhs.gov/childcaresearch"
+  ]
+ },
+ "north-dakota": {
+  "registry_urls": [
+   "https://childcare.gov/es/ver-recursos-de-su-estado/north-dakota",
+   "https://childcare.gov/state-resources/north-dakota"
+  ]
+ },
+ "ohio": {
+  "registry_urls": [
+   "https://childcare.gov/es/ver-recursos-de-su-estado/ohio",
+   "https://childcare.gov/state-resources/ohio",
+   "https://childcaresearch.ohio.gov/"
+  ]
+ },
+ "oklahoma": {
+  "registry_urls": [
+   "https://childcare.gov/es/ver-recursos-de-su-estado/oklahoma",
+   "https://childcare.gov/state-resources/oklahoma",
+   "https://childcarefind.okdhs.org/faq"
+  ]
+ },
+ "oregon": {
+  "registry_urls": [
+   "https://childcare.gov/es/ver-recursos-de-su-estado/oregon",
+   "https://childcare.gov/state-resources/oregon",
+   "https://findchildcareoregon.org/"
+  ]
+ },
+ "pennsylvania": {
+  "registry_urls": [
+   "https://childcare.gov/es/ver-recursos-de-su-estado/pennsylvania",
+   "https://childcare.gov/state-resources/pennsylvania",
+   "https://www.compass.dhs.pa.gov/providersearch/#/childcareprovidersearch"
+  ]
+ },
+ "rhode-island": {
+  "registry_urls": [
+   "https://childcare.gov/es/ver-recursos-de-su-estado/rhode-island",
+   "https://childcare.gov/state-resources/rhode-island"
+  ]
+ },
+ "south-carolina": {
+  "registry_urls": [
+   "https://abcquality.org/provider-search",
+   "https://childcare.gov/es/ver-recursos-de-su-estado/south-carolina",
+   "https://childcare.gov/state-resources/south-carolina"
+  ]
+ },
+ "south-dakota": {
+  "registry_urls": [
+   "https://childcare.gov/es/ver-recursos-de-su-estado/south-dakota",
+   "https://childcare.gov/state-resources/south-dakota",
+   "https://olapublic.sd.gov/child-care-provider-search/"
+  ]
+ },
+ "tennessee": {
+  "registry_urls": [
+   "https://childcare.gov/es/ver-recursos-de-su-estado/tennessee",
+   "https://childcare.gov/state-resources/tennessee"
+  ]
+ },
+ "texas": {
+  "registry_urls": [
+   "https://childcare.gov/es/ver-recursos-de-su-estado/texas",
+   "https://childcare.gov/state-resources/texas",
+   "https://childcare.twc.texas.gov/find/welcome"
+  ]
+ },
+ "utah": {
+  "registry_urls": [
+   "https://childcare.gov/es/ver-recursos-de-su-estado/utah",
+   "https://childcare.gov/state-resources/utah"
+  ]
+ },
+ "vermont": {
+  "registry_urls": [
+   "https://childcare.gov/es/ver-recursos-de-su-estado/vermont",
+   "https://childcare.gov/state-resources/vermont"
+  ]
+ },
+ "virginia": {
+  "registry_urls": [
+   "https://childcare.gov/es/ver-recursos-de-su-estado/virginia",
+   "https://childcare.gov/state-resources/virginia"
+  ]
+ },
+ "washington": {
+  "registry_urls": [
+   "https://childcare.gov/es/ver-recursos-de-su-estado/washington",
+   "https://childcare.gov/state-resources/washington",
+   "https://www.findchildcarewa.org/"
+  ]
+ },
+ "west-virginia": {
+  "registry_urls": [
+   "https://bfa.wv.gov/page/find-childcare-provider",
+   "https://childcare.gov/es/ver-recursos-de-su-estado/west-virginia",
+   "https://childcare.gov/state-resources/west-virginia"
+  ]
+ },
+ "wisconsin": {
+  "registry_urls": [
+   "https://childcare.gov/es/ver-recursos-de-su-estado/wisconsin",
+   "https://childcare.gov/state-resources/wisconsin",
+   "https://childcarefinder.wisconsin.gov/"
+  ]
+ },
+ "wyoming": {
+  "registry_urls": [
+   "https://childcare.gov/es/ver-recursos-de-su-estado/wyoming",
+   "https://childcare.gov/state-resources/wyoming",
+   "https://findchildcarewy.org/maps/"
+  ]
+ },
+ "district-of-columbia": {
+  "registry_urls": [
+   "https://childcare.gov/es/ver-recursos-de-su-estado/district-of-columbia",
+   "https://childcare.gov/state-resources/district-of-columbia",
+   "https://mychildcare.dc.gov/"
+  ]
+ }
+}

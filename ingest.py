@@ -156,11 +156,13 @@ def norm_ca(r):
 
 
 SOURCES = {
-    "ny":  ("ny.json",  norm_ny),
-    "tx":  ("tx.json",  norm_tx),
-    "de":  ("de.json",  norm_de),
-    "nyc": ("nyc.json", norm_nyc),
-    "ca":  ("ca.csv",   norm_ca),
+    "co": ("co.json", "norm_extra"), "ct": ("ct.json", "norm_extra"),
+    "nj": ("nj.json", "norm_extra"), "pa": ("pa.json", "norm_extra"),
+    "wa": ("wa.json", "norm_extra"), "wi": ("wi.json", "norm_extra"),
+    "ne": ("ne.json", "norm_extra"),
+    "ny": ("ny.json", "norm_generic"), "tx": ("tx.json", "norm_generic"),
+    "de": ("de.json", "norm_generic"), "nyc": ("nyc.json", "norm_generic"),
+    "ca": ("ca.csv", "norm_ca"),
 }
 
 
@@ -175,8 +177,12 @@ def main():
         fname, fn = SOURCES[key]
         path = os.path.join(DATA, fname)
         raw = load(path)
-        if key == "ca":
+        kind = SOURCES[key][1]
+        if kind == "norm_ca":
             rows = [norm_ca(r) for r in raw]
+        elif kind == "norm_extra":
+            from normalize_extra import NORMALIZERS
+            rows = [NORMALIZERS[key](r) for r in raw]
         else:
             srcmap = {"ny": "NY-OCFS", "tx": "TX-HHSC", "de": "DE-DSCYF", "nyc": "NYC-DOHMH"}
             rows = [norm_generic(r, srcmap[key], {"ny":"NY","tx":"TX","de":"DE","nyc":"NY"}[key]) for r in raw]
