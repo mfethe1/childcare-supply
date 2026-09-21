@@ -160,6 +160,9 @@ SOURCES = {
     "nj": ("nj.json", "norm_extra"), "pa": ("pa.json", "norm_extra"),
     "wa": ("wa.json", "norm_extra"), "wi": ("wi.json", "norm_extra"),
     "ne": ("ne.json", "norm_extra"),
+    "ma": ("ma.json", "norm_extra"), "vt": ("vt.json", "norm_extra"),
+    "mn": ("mn.json", "norm_extra"), "ok": ("ok.json", "norm_extra"),
+    "va": ("va_*.json", "norm_extra"), "hi": ("hi.json", "norm_extra"),
     "ny": ("ny.json", "norm_generic"), "tx": ("tx.json", "norm_generic"),
     "de": ("de.json", "norm_generic"), "nyc": ("nyc.json", "norm_generic"),
     "ca": ("ca.csv", "norm_ca"),
@@ -176,7 +179,22 @@ def main():
     for key in only:
         fname, fn = SOURCES[key]
         path = os.path.join(DATA, fname)
-        raw = load(path)
+        if "*" in fname:
+            import glob as _g
+            parts = []
+            for p in sorted(_g.glob(path)):
+                parts.append(load(p))
+            # tag each file's rows with its layer file for traceability
+            import os.path as _op
+            layer_files = sorted(_op.basename(p) for p in _g.glob(path))
+            raw = []
+            for lf, part in zip(layer_files, parts):
+                for r in part:
+                    r = dict(r)
+                    r["_layer_file"] = lf
+                    raw.append(r)
+        else:
+            raw = load(path)
         kind = SOURCES[key][1]
         if kind == "norm_ca":
             rows = [norm_ca(r) for r in raw]

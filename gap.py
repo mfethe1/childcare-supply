@@ -19,7 +19,8 @@ STATE_FIPS = {"california":"06","colorado":"08","connecticut":"09","delaware":"1
               "new jersey":"34","new york":"36","pennsylvania":"42","texas":"48","washington":"53","wisconsin":"55"}
 # postal codes, as stored in the providers.state column
 STATE_FIPS.update({"ca":"06","co":"08","ct":"09","de":"10","ne":"31","nj":"34","ny":"36",
-                   "pa":"42","tx":"48","wa":"53","wi":"55"})
+                   "pa":"42","tx":"48","wa":"53","wi":"55",
+                   "ma":"25","vt":"50","mn":"27","ok":"40","va":"51","hi":"15"})
 
 def norm_county(name):
     n = str(name).strip().lower()
