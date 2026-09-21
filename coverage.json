@@ -6,364 +6,572 @@
    "endpoint": "https://data.chhs.ca.gov/dataset/ccl-facilities/resource/7aed8063-cea7-4367-8651-c81643164ae0/download",
    "type": "csv-redirect",
    "status": "verified",
-   "machine_readable": true
+   "machine_readable": true,
+   "jev_machine_readable_class": "direct_api",
+   "jev_class_confidence": 0.96,
+   "jev_redistributable": true,
+   "jev_redist_confidence": 0.82
   },
   "CO": {
    "name": "CO Licensed Child Care Facilities Report",
    "endpoint": "https://data.colorado.gov/resource/a9rr-k8mu.json",
    "type": "socrata",
    "status": "verified",
-   "machine_readable": true
+   "machine_readable": true,
+   "jev_machine_readable_class": "direct_api",
+   "jev_class_confidence": 1.0,
+   "jev_redistributable": true,
+   "jev_redist_confidence": 0.86
   },
   "CT": {
    "name": "CT OEC Child Care & Youth Camp Licensing",
    "endpoint": "https://data.ct.gov/resource/h8mr-dn95.json",
    "type": "socrata",
    "status": "verified",
-   "machine_readable": true
+   "machine_readable": true,
+   "jev_machine_readable_class": "direct_api",
+   "jev_class_confidence": 1.0,
+   "jev_redistributable": true,
+   "jev_redist_confidence": 0.84
   },
   "DE": {
    "name": "DE DSCYF Resource Search",
    "endpoint": "https://data.delaware.gov/resource/jxu7-wnw2.json",
    "type": "socrata",
    "status": "verified",
-   "machine_readable": true
+   "machine_readable": true,
+   "jev_machine_readable_class": "direct_api",
+   "jev_class_confidence": 0.99,
+   "jev_redistributable": true,
+   "jev_redist_confidence": 0.8
   },
   "NE": {
    "name": "NE DHHS Licensed Child Care",
    "endpoint": "https://gis.ne.gov/Agency/rest/services/DHHS_Licensed_Child_Care/FeatureServer/0/query",
    "type": "arcgis",
    "status": "verified",
-   "machine_readable": true
+   "machine_readable": true,
+   "jev_machine_readable_class": "direct_api",
+   "jev_class_confidence": 1.0,
+   "jev_redistributable": true,
+   "jev_redist_confidence": 0.74
   },
   "NJ": {
    "name": "NJ DCF Licensed Child Care Centers",
    "endpoint": "https://data.nj.gov/resource/cru5-4rmm.json",
    "type": "socrata",
    "status": "verified",
-   "machine_readable": true
+   "machine_readable": true,
+   "jev_machine_readable_class": "direct_api",
+   "jev_class_confidence": 1.0,
+   "jev_redistributable": true,
+   "jev_redist_confidence": 0.85
   },
   "NY": {
    "name": "NY OCFS Child Day Care",
    "endpoint": "https://data.ny.gov/resource/fymg-3wv3.json",
    "type": "socrata",
    "status": "verified",
-   "machine_readable": true
+   "machine_readable": true,
+   "jev_machine_readable_class": "direct_api",
+   "jev_class_confidence": 1.0,
+   "jev_redistributable": true,
+   "jev_redist_confidence": 0.83
   },
   "NYC": {
    "name": "NYC DOHMH Child Care",
    "endpoint": "https://data.cityofnewyork.us/resource/gy3q-4tzp.json",
    "type": "socrata",
    "status": "verified",
-   "machine_readable": true
+   "machine_readable": true,
+   "jev_machine_readable_class": "direct_api",
+   "jev_class_confidence": 1.0,
+   "jev_redistributable": true,
+   "jev_redist_confidence": 0.84
   },
   "PA": {
    "name": "PA OCDEL Child Care Providers Listing",
    "endpoint": "https://data.pa.gov/resource/ajn5-kaxt.json",
    "type": "socrata",
    "status": "verified",
-   "machine_readable": true
+   "machine_readable": true,
+   "jev_machine_readable_class": "direct_api",
+   "jev_class_confidence": 1.0,
+   "jev_redistributable": true,
+   "jev_redist_confidence": 0.82
   },
   "TX": {
    "name": "TX HHSC Child Care Operations",
    "endpoint": "https://data.texas.gov/resource/bc5r-88dy.json",
    "type": "socrata",
    "status": "verified",
-   "machine_readable": true
+   "machine_readable": true,
+   "jev_machine_readable_class": "direct_api",
+   "jev_class_confidence": 1.0,
+   "jev_redistributable": true,
+   "jev_redist_confidence": 0.83
   },
   "WA": {
    "name": "WA DCYF Licensed Childcare Providers",
    "endpoint": "https://data.wa.gov/resource/was8-3ni8.json",
    "type": "socrata",
    "status": "verified",
-   "machine_readable": true
+   "machine_readable": true,
+   "jev_machine_readable_class": "direct_api",
+   "jev_class_confidence": 1.0,
+   "jev_redistributable": true,
+   "jev_redist_confidence": 0.85
   },
   "WI": {
    "name": "WI DCF Child Care",
    "endpoint": "https://dhsgis.wi.gov/server/rest/services/DHS_DCF/Child_Care/MapServer/0/query",
    "type": "arcgis",
    "status": "verified",
-   "machine_readable": true
+   "machine_readable": true,
+   "jev_machine_readable_class": "direct_api",
+   "jev_class_confidence": 1.0,
+   "jev_redistributable": true,
+   "jev_redist_confidence": 0.76
   },
   "AL": {
    "name": "Alabama (childcare.gov registry link)",
    "endpoint": "https://apps.dhr.alabama.gov/daycare/daycare_search",
    "type": "html-search",
    "status": "lead",
-   "machine_readable": false
+   "machine_readable": false,
+   "jev_machine_readable_class": "scrape_only",
+   "jev_class_confidence": 1.0,
+   "jev_redistributable": true,
+   "jev_redist_confidence": 0.59
   },
   "AR": {
    "name": "Arizona (childcare.gov registry link)",
    "endpoint": null,
    "type": "none",
    "status": "none-found",
-   "machine_readable": false
+   "machine_readable": false,
+   "jev_machine_readable_class": "no_data",
+   "jev_class_confidence": 0.37,
+   "jev_redistributable": false,
+   "jev_redist_confidence": 0.49
   },
   "IL": {
    "name": "Illinois (childcare.gov registry link)",
    "endpoint": "https://www.illinoiscaresforkids.org/provider-search/?zip",
    "type": "html-search",
    "status": "lead",
-   "machine_readable": false
+   "machine_readable": false,
+   "jev_machine_readable_class": "scrape_only",
+   "jev_class_confidence": 1.0,
+   "jev_redistributable": true,
+   "jev_redist_confidence": 0.55
   },
   "IN": {
    "name": "Indiana (childcare.gov registry link)",
    "endpoint": "https://www.in.gov/fssa/childcarefinder/",
    "type": "html-search",
    "status": "lead",
-   "machine_readable": false
+   "machine_readable": false,
+   "jev_machine_readable_class": "scrape_only",
+   "jev_class_confidence": 1.0,
+   "jev_redistributable": true,
+   "jev_redist_confidence": 0.59
   },
   "MA": {
    "name": "MA EEC Licensed & Funded Early Education and Care Programs",
    "endpoint": "https://educationtocareer.data.mass.gov/resource/7y4h-v7hk.json",
    "type": "socrata",
    "status": "verified",
-   "machine_readable": true
+   "machine_readable": true,
+   "jev_machine_readable_class": "direct_api",
+   "jev_class_confidence": 1.0,
+   "jev_redistributable": true,
+   "jev_redist_confidence": 0.84
   },
   "MI": {
    "name": "Michigan (childcare.gov registry link)",
    "endpoint": "https://www.mdhs.provider.webapps.ms.gov/ccsearch.aspx",
    "type": "html-search",
    "status": "lead",
-   "machine_readable": false
+   "machine_readable": false,
+   "jev_machine_readable_class": "scrape_only",
+   "jev_class_confidence": 1.0,
+   "jev_redistributable": false,
+   "jev_redist_confidence": 0.48
   },
   "MO": {
    "name": "Missouri (childcare.gov registry link)",
    "endpoint": "https://dphhs.mt.gov/ecfsd/childcare/childcarelicensing/providersearch",
    "type": "html-search",
    "status": "lead",
-   "machine_readable": false
+   "machine_readable": false,
+   "jev_machine_readable_class": "scrape_only",
+   "jev_class_confidence": 0.99,
+   "jev_redistributable": true,
+   "jev_redist_confidence": 0.5
   },
   "OH": {
    "name": "Ohio (childcare.gov registry link)",
    "endpoint": "https://childcaresearch.ohio.gov/",
    "type": "html-search",
    "status": "lead",
-   "machine_readable": false
+   "machine_readable": false,
+   "jev_machine_readable_class": "scrape_only",
+   "jev_class_confidence": 1.0,
+   "jev_redistributable": true,
+   "jev_redist_confidence": 0.61
   },
   "OK": {
    "name": "OK DHS Licensed Child Care Programs",
    "endpoint": "https://oklahoma.gov/content/dam/ok/en/okdhs/digital-services/childcare.json",
    "type": "json",
    "status": "verified",
-   "machine_readable": true
+   "machine_readable": true,
+   "jev_machine_readable_class": "direct_api",
+   "jev_class_confidence": 1.0,
+   "jev_redistributable": true,
+   "jev_redist_confidence": 0.81
   },
   "OR": {
    "name": "Oregon (childcare.gov registry link)",
    "endpoint": "https://findchildcareoregon.org/",
    "type": "html-search",
    "status": "lead",
-   "machine_readable": false
+   "machine_readable": false,
+   "jev_machine_readable_class": "scrape_only",
+   "jev_class_confidence": 1.0,
+   "jev_redistributable": true,
+   "jev_redist_confidence": 0.54
   },
   "WY": {
    "name": "Wyoming (childcare.gov registry link)",
    "endpoint": "https://findchildcarewy.org/maps/",
    "type": "html-search",
    "status": "lead",
-   "machine_readable": false
+   "machine_readable": false,
+   "jev_machine_readable_class": "scrape_only",
+   "jev_class_confidence": 1.0,
+   "jev_redistributable": true,
+   "jev_redist_confidence": 0.53
   },
   "AK": {
    "name": "Alaska",
    "endpoint": null,
    "type": "none",
    "status": "none-found",
-   "machine_readable": false
+   "machine_readable": false,
+   "jev_machine_readable_class": "no_data",
+   "jev_class_confidence": 0.9,
+   "jev_redistributable": true,
+   "jev_redist_confidence": 0.56
   },
   "AZ": {
    "name": "Arizona (state registry, HTML)",
    "endpoint": "https://azchildcareprovidersearch.azdes.gov/",
    "type": "html-search",
    "status": "lead",
-   "machine_readable": false
+   "machine_readable": false,
+   "jev_machine_readable_class": "scrape_only",
+   "jev_class_confidence": 1.0,
+   "jev_redistributable": true,
+   "jev_redist_confidence": 0.54
   },
   "DC": {
    "name": "District-Of-Columbia (state registry, HTML)",
    "endpoint": "https://mychildcare.dc.gov/",
    "type": "html-search",
    "status": "lead",
-   "machine_readable": false
+   "machine_readable": false,
+   "jev_machine_readable_class": "scrape_only",
+   "jev_class_confidence": 1.0,
+   "jev_redistributable": true,
+   "jev_redist_confidence": 0.6
   },
   "FL": {
    "name": "Florida",
    "endpoint": null,
    "type": "none",
    "status": "none-found",
-   "machine_readable": false
+   "machine_readable": false,
+   "jev_machine_readable_class": "no_data",
+   "jev_class_confidence": 0.85,
+   "jev_redistributable": true,
+   "jev_redist_confidence": 0.51
   },
   "GA": {
    "name": "Georgia",
    "endpoint": null,
    "type": "none",
    "status": "none-found",
-   "machine_readable": false
+   "machine_readable": false,
+   "jev_machine_readable_class": "no_data",
+   "jev_class_confidence": 0.86,
+   "jev_redistributable": true,
+   "jev_redist_confidence": 0.54
   },
   "HI": {
    "name": "HI DHS Child Care Provider Search (PowerAutomate + detail pages)",
    "endpoint": "https://childcareprovidersearch.dhs.hawaii.gov/",
    "type": "scraped-2step",
    "status": "verified",
-   "machine_readable": false
+   "machine_readable": false,
+   "jev_machine_readable_class": "scrape_only",
+   "jev_class_confidence": 1.0,
+   "jev_redistributable": true,
+   "jev_redist_confidence": 0.63
   },
   "ID": {
    "name": "Idaho",
    "endpoint": null,
    "type": "none",
    "status": "none-found",
-   "machine_readable": false
+   "machine_readable": false,
+   "jev_machine_readable_class": "no_data",
+   "jev_class_confidence": 0.89,
+   "jev_redistributable": true,
+   "jev_redist_confidence": 0.54
   },
   "IA": {
    "name": "Iowa (state registry, HTML)",
    "endpoint": "https://search.iachildcareconnect.org/",
    "type": "html-search",
    "status": "lead",
-   "machine_readable": false
+   "machine_readable": false,
+   "jev_machine_readable_class": "scrape_only",
+   "jev_class_confidence": 1.0,
+   "jev_redistributable": false,
+   "jev_redist_confidence": 0.45
   },
   "KS": {
    "name": "Kansas (state registry, HTML)",
    "endpoint": "https://ks.childcareaware.org/childcaresearch/",
    "type": "html-search",
    "status": "lead",
-   "machine_readable": false
+   "machine_readable": false,
+   "jev_machine_readable_class": "scrape_only",
+   "jev_class_confidence": 1.0,
+   "jev_redistributable": false,
+   "jev_redist_confidence": 0.39
   },
   "KY": {
    "name": "Kentucky (state registry, HTML)",
    "endpoint": "https://kynect.ky.gov/benefits/s/child-care-provider?origin=program-page&amp;language=en_US",
    "type": "html-search",
    "status": "lead",
-   "machine_readable": false
+   "machine_readable": false,
+   "jev_machine_readable_class": "scrape_only",
+   "jev_class_confidence": 1.0,
+   "jev_redistributable": false,
+   "jev_redist_confidence": 0.49
   },
   "LA": {
    "name": "Louisiana",
    "endpoint": null,
    "type": "none",
    "status": "none-found",
-   "machine_readable": false
+   "machine_readable": false,
+   "jev_machine_readable_class": "no_data",
+   "jev_class_confidence": 0.78,
+   "jev_redistributable": true,
+   "jev_redist_confidence": 0.54
   },
   "ME": {
    "name": "Maine",
    "endpoint": null,
    "type": "none",
    "status": "none-found",
-   "machine_readable": false
+   "machine_readable": false,
+   "jev_machine_readable_class": "no_data",
+   "jev_class_confidence": 0.86,
+   "jev_redistributable": true,
+   "jev_redist_confidence": 0.56
   },
   "MD": {
    "name": "Maryland",
    "endpoint": null,
    "type": "none",
    "status": "none-found",
-   "machine_readable": false
+   "machine_readable": false,
+   "jev_machine_readable_class": "no_data",
+   "jev_class_confidence": 0.81,
+   "jev_redistributable": true,
+   "jev_redist_confidence": 0.53
   },
   "MN": {
    "name": "MN DHS Health Facilities & Licensed Programs (HFLV)",
    "endpoint": "https://licenselookup.health.state.mn.us/HFLV",
    "type": "json-api",
    "status": "verified",
-   "machine_readable": true
+   "machine_readable": true,
+   "jev_machine_readable_class": "direct_api",
+   "jev_class_confidence": 0.95,
+   "jev_redistributable": true,
+   "jev_redist_confidence": 0.76
   },
   "MS": {
    "name": "Mississippi (state registry, HTML)",
    "endpoint": null,
    "type": "none",
    "status": "none-found",
-   "machine_readable": false
+   "machine_readable": false,
+   "jev_machine_readable_class": "no_data",
+   "jev_class_confidence": 0.73,
+   "jev_redistributable": false,
+   "jev_redist_confidence": 0.44
   },
   "MT": {
    "name": "Montana (childcare.gov registry link)",
    "endpoint": "https://dphhs.mt.gov/ecfsd/childcare/childcarelicensing/providersearch",
    "type": "html-search",
    "status": "lead",
-   "machine_readable": false
+   "machine_readable": false,
+   "jev_machine_readable_class": "scrape_only",
+   "jev_class_confidence": 1.0,
+   "jev_redistributable": true,
+   "jev_redist_confidence": 0.63
   },
   "NV": {
    "name": "Nevada",
    "endpoint": null,
    "type": "none",
    "status": "none-found",
-   "machine_readable": false
+   "machine_readable": false,
+   "jev_machine_readable_class": "no_data",
+   "jev_class_confidence": 0.84,
+   "jev_redistributable": true,
+   "jev_redist_confidence": 0.51
   },
   "NH": {
    "name": "New-Hampshire",
    "endpoint": null,
    "type": "none",
    "status": "none-found",
-   "machine_readable": false
+   "machine_readable": false,
+   "jev_machine_readable_class": "no_data",
+   "jev_class_confidence": 0.82,
+   "jev_redistributable": true,
+   "jev_redist_confidence": 0.58
   },
   "NM": {
    "name": "New-Mexico (state registry, HTML)",
    "endpoint": "https://childcare.ececd.nm.gov/search",
    "type": "html-search",
    "status": "lead",
-   "machine_readable": false
+   "machine_readable": false,
+   "jev_machine_readable_class": "scrape_only",
+   "jev_class_confidence": 1.0,
+   "jev_redistributable": true,
+   "jev_redist_confidence": 0.59
   },
   "NC": {
    "name": "North-Carolina (state registry, HTML)",
    "endpoint": "https://ncchildcare.ncdhhs.gov/childcaresearch",
    "type": "html-search",
    "status": "lead",
-   "machine_readable": false
+   "machine_readable": false,
+   "jev_machine_readable_class": "scrape_only",
+   "jev_class_confidence": 1.0,
+   "jev_redistributable": true,
+   "jev_redist_confidence": 0.56
   },
   "ND": {
    "name": "North-Dakota",
    "endpoint": null,
    "type": "none",
    "status": "none-found",
-   "machine_readable": false
+   "machine_readable": false,
+   "jev_machine_readable_class": "no_data",
+   "jev_class_confidence": 0.89,
+   "jev_redistributable": true,
+   "jev_redist_confidence": 0.56
   },
   "RI": {
    "name": "Rhode-Island",
    "endpoint": null,
    "type": "none",
    "status": "none-found",
-   "machine_readable": false
+   "machine_readable": false,
+   "jev_machine_readable_class": "no_data",
+   "jev_class_confidence": 0.89,
+   "jev_redistributable": true,
+   "jev_redist_confidence": 0.52
   },
   "SC": {
    "name": "South-Carolina (state registry, HTML)",
    "endpoint": "https://abcquality.org/provider-search",
    "type": "html-search",
    "status": "lead",
-   "machine_readable": false
+   "machine_readable": false,
+   "jev_machine_readable_class": "scrape_only",
+   "jev_class_confidence": 1.0,
+   "jev_redistributable": false,
+   "jev_redist_confidence": 0.39
   },
   "SD": {
    "name": "South-Dakota (state registry, HTML)",
    "endpoint": "https://olapublic.sd.gov/child-care-provider-search/",
    "type": "html-search",
    "status": "lead",
-   "machine_readable": false
+   "machine_readable": false,
+   "jev_machine_readable_class": "scrape_only",
+   "jev_class_confidence": 1.0,
+   "jev_redistributable": true,
+   "jev_redist_confidence": 0.61
   },
   "TN": {
    "name": "Tennessee",
    "endpoint": null,
    "type": "none",
    "status": "none-found",
-   "machine_readable": false
+   "machine_readable": false,
+   "jev_machine_readable_class": "no_data",
+   "jev_class_confidence": 0.85,
+   "jev_redistributable": true,
+   "jev_redist_confidence": 0.55
   },
   "UT": {
    "name": "Utah",
    "endpoint": null,
    "type": "none",
    "status": "none-found",
-   "machine_readable": false
+   "machine_readable": false,
+   "jev_machine_readable_class": "no_data",
+   "jev_class_confidence": 0.84,
+   "jev_redistributable": true,
+   "jev_redist_confidence": 0.55
   },
   "VT": {
    "name": "VT Child Care Programs (BBF/DCF)",
    "endpoint": "https://data.vermont.gov/resource/3hc2-30re.json",
    "type": "socrata",
    "status": "verified",
-   "machine_readable": true
+   "machine_readable": true,
+   "jev_machine_readable_class": "direct_api",
+   "jev_class_confidence": 1.0,
+   "jev_redistributable": true,
+   "jev_redist_confidence": 0.84
   },
   "VA": {
    "name": "VA Licensed Child Care (Child Care Aware of America ArcGIS layers)",
    "endpoint": "https://services1.arcgis.com/WQnqRtVhbQxUgQ7z/arcgis/rest/services/VA_Licensed_Child_Care_Centers_December_2025/FeatureServer/0",
    "type": "arcgis",
    "status": "verified",
-   "machine_readable": true
+   "machine_readable": true,
+   "jev_machine_readable_class": "direct_api",
+   "jev_class_confidence": 1.0,
+   "jev_redistributable": true,
+   "jev_redist_confidence": 0.65
   },
   "WV": {
    "name": "West-Virginia (state registry, HTML)",
    "endpoint": "https://bfa.wv.gov/page/find-childcare-provider",
    "type": "html-search",
    "status": "lead",
-   "machine_readable": false
+   "machine_readable": false,
+   "jev_machine_readable_class": "scrape_only",
+   "jev_class_confidence": 1.0,
+   "jev_redistributable": true,
+   "jev_redist_confidence": 0.55
   }
  },
  "notes": [
@@ -373,5 +581,16 @@
   "MI: row-level ArcGIS endpoint known but service URL returns Invalid URL; data.michigan.gov has county aggregates only.",
   "OR: real database runs on vendor platform stage.worklifesystems.com (AgencyId=34).",
   "NM: search portal uses api.wonderschool.com backend."
- ]
+ ],
+ "jev_census": {
+  "model": "jev-1.13.0",
+  "classified_at": "2026-09-21",
+  "counts": {
+   "direct_api": 17,
+   "scrape_only": 20,
+   "no_data": 15
+  },
+  "ground_truth_agreement": "32/33 verified/none-found states (HI classified scrape_only by Jev; we reverse-engineered an undocumented PowerAutomate endpoint, so both defensible)",
+  "question": "highest achieved data access tier: direct_api / gated_download / scrape_only / no_data"
+ }
 }
