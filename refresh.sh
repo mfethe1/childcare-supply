@@ -10,6 +10,7 @@ python3 fetch.py            || exit 1
 python3 fetch_extra.py      || exit 1
 python3 ingest.py         || exit 1
 python3 gap.py > gap_latest.txt || exit 1
+python3 stats.py --write  || exit 1   # README table follows the data, never the other way
 python3 test_pipeline.py  || exit 1
 
 # Only push if the normalized DB or coverage actually changed

@@ -150,7 +150,13 @@ def main():
         f"coverage.json endpoint != code endpoint: {liars}"
     )
 
-    print("ALL 8 ASSERTIONS PASSED")
+    # 9. published numbers match the data (the README table drifted for a full
+    #    release: NY off by 2,751 providers, TX by 10,212 seats)
+    r = subprocess.run([sys.executable, os.path.join(HERE, "stats.py"), "--check"],
+                       capture_output=True, text=True)
+    assert r.returncode == 0, r.stdout.strip() or r.stderr.strip()
+
+    print("ALL 9 ASSERTIONS PASSED")
 
 
 if __name__ == "__main__":
