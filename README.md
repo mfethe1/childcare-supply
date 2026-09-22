@@ -47,7 +47,7 @@ Largest desert counties by under-5 population: Riverside CA, San Bernardino CA, 
 
 ## Tract-level analysis (v0.3 exploratory)
 
-`tract_gap.py` adds a tract-level companion layer using the Census Geocoder batch endpoint and CensusReporter ACS 2024 under-5 estimates. It geocodes provider street addresses to 2020-vintage Census tracts, aggregates licensed seats to the supply tract, and applies the same CAP/CEEL threshold (<33 seats per 100 children under 5). The current run matched 70,347 of 80,810 usable addresses (87.1%) and scored 28,729 tracts, of which 13,843 (48.2%) met the desert threshold.
+`tract_gap.py` adds a tract-level companion layer using the Census Geocoder batch endpoint and CensusReporter ACS 2024 under-5 estimates. It geocodes provider street addresses to 2020-vintage Census tracts, aggregates licensed seats to the supply tract, and applies the same CAP/CEEL threshold (<33 seats per 100 children under 5). The current run matched 70,347 of 80,810 usable addresses (87.1%). Of 28,729 tracts in the joined file, 26,091 met the scoring bar (at least 50 children under 5 and a computable rate), and 13,843 of those (53.1%) fell below the desert threshold.
 
 This is an exploratory **supply-location** measure, not an enrollment or travel-access measure. It is not directly comparable to CAP's 3-mile-buffer methodology. Providers with no usable address or unmatched addresses are excluded; CT, WI, and NYC are excluded from this layer because their source rows do not provide complete address coverage. The Census geocoder can rate-limit large batches, so rerun `python3 tract_gap.py` to fill any missing cache entries before using this layer for publication.
 
