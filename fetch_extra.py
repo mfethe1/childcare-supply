@@ -78,6 +78,12 @@ MN_HFLV = ("https://services7.arcgis.com/s3vGpGobX9nzlLH3/arcgis/rest/services/"
 OK_URL = ("https://services3.arcgis.com/yBwJ5BxqvbumespK/arcgis/rest/services/"
           "Oklahoma_Child_Care_Centers/FeatureServer/0/query")
 
+# NE and WI publish ArcGIS layers on their own state GIS servers (not ArcGIS Online).
+NE_URL = ("https://gis.ne.gov/Agency/rest/services/DHHS_Licensed_Child_Care/"
+          "FeatureServer/0/query")
+WI_URL = ("https://dhsgis.wi.gov/server/rest/services/DHS_DCF/Child_Care/"
+          "MapServer/0/query")
+
 
 def main():
     os.makedirs(DATA, exist_ok=True)
@@ -95,7 +101,7 @@ def main():
             print(f"{name}: {len(rows)} rows")
         except Exception as e:
             print(f"{name}: FETCH FAILED: {e}")
-    for name, url in (("mn", MN_HFLV), ("ok", OK_URL)):
+    for name, url in (("mn", MN_HFLV), ("ok", OK_URL), ("ne", NE_URL), ("wi", WI_URL)):
         try:
             rows = arcgis_all(url)
             json.dump(rows, open(os.path.join(DATA, f"{name}.json"), "w"))
