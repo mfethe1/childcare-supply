@@ -5,7 +5,7 @@ Run: python3 test_pipeline.py
 Asserts normalization, idempotency, and active-status filtering against
 hand-built fixtures — no live network, no real databases.
 """
-import csv, io, json, os, sqlite3, subprocess, sys, tempfile
+import csv, io, json, os, re, sqlite3, subprocess, sys, tempfile, urllib.parse
 
 HERE = os.path.dirname(os.path.abspath(__file__))
 INGEST = os.path.join(HERE, "ingest.py")
@@ -36,6 +36,52 @@ CA_CSV = """facility_type,facility_number,facility_name,facility_city,facility_s
 DAY CARE CENTER,111,A Kiddie Place,Los Angeles,CA,90001,LOS ANGELES,55,LICENSED
 DAY CARE CENTER,222,Old Shut Doors,Los Angeles,CA,90002,LOS ANGELES,80,CLOSED
 """
+
+
+def src(name):
+    """File text with adjacent string literals joined, so multi-line URLs match."""
+    return re.sub(r'"\s*\n\s*"', "", open(os.path.join(HERE, name)).read())
+
+
+def ingest_sources():
+    """Keys of ingest.py's SOURCES dict."""
+    return set(re.findall(r'"(\w+)": \("', src("ingest.py").split("SOURCES = {")[1]))
+
+
+def fetcher_sources():
+    """Sources some fetcher actually produces, read from the fetchers themselves."""
+    extra = src("fetch_extra.py")
+    return (
+        set(re.findall(r"^def fetch_(\w+)", src("fetch.py"), re.M))            # fetch.py
+        | set(re.findall(r'"(\w+)": "https', extra.split("SOCRATA = {")[1]))   # socrata
+        | set(re.findall(r'"(\w+)", \w+\)', extra.split("for name, url in (")[1]))
+        | {"va", "hi"}  # VA_LAYERS glob; HI via fetch_hi.py + harvest_hi_oahu.py
+    )
+
+
+# path segments that identify nothing on their own
+GENERIC = {"rest", "services", "arcgis", "resource", "server", "query", "dataset",
+           "download", "featureserver", "mapserver", "agency", "api", "0", "1"}
+
+
+def endpoint_mismatches():
+    """Verified coverage.json endpoints whose host+identifier aren't in the fetchers.
+
+    Socrata URLs are assembled from host+ident at runtime, so compare parts,
+    not whole strings.
+    """
+    code = "".join(src(f) for f in ("fetch.py", "fetch_extra.py", "fetch_hi.py"))
+    cov = json.load(open(os.path.join(HERE, "coverage.json")))["sources"]
+    bad = set()
+    for st, v in cov.items():
+        if v.get("status") != "verified":
+            continue
+        u = urllib.parse.urlparse(v.get("endpoint") or "")
+        segs = [s.rsplit(".", 1)[0] for s in u.path.split("/") if s]
+        ident = max((s for s in segs if s.lower() not in GENERIC), key=len, default="")
+        if u.netloc not in code or ident not in code:
+            bad.add(st)
+    return bad
 
 
 def run(cmd, env=None):
@@ -94,7 +140,17 @@ def main():
     out = run([sys.executable, SEATS, "county", "Kent", "DE"], env=env)
     assert "1 active providers" in out and "Delta Care" in out, out
 
-    print("ALL 6 FIXTURE ASSERTIONS PASSED")
+    # 7/8. wiring invariants — reported together so one can't mask the other.
+    #      (NE and WI shipped for weeks with no fetcher; five coverage.json
+    #       endpoints 404'd while the code called live ones.)
+    orphans = sorted(ingest_sources() - fetcher_sources())
+    liars = sorted(endpoint_mismatches())
+    assert not (orphans or liars), (
+        f"ingest.py expects sources nothing fetches: {orphans}\n"
+        f"coverage.json endpoint != code endpoint: {liars}"
+    )
+
+    print("ALL 8 ASSERTIONS PASSED")
 
 
 if __name__ == "__main__":
